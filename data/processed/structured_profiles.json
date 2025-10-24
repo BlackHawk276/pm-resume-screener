@@ -1,0 +1,3855 @@
+{
+  "profile_001": {
+    "name": "Aman Goel",
+    "current_role": "Product Manager",
+    "current_company": "Samsung Ads",
+    "years_of_experience": 10.3,
+    "education": [
+      {
+        "institution": "Guru Gobind Singh Indraprastha University",
+        "degree": "BTech",
+        "field": "Mechanical Engineering",
+        "years": "2011-2015"
+      }
+    ],
+    "has_mba": false,
+    "has_engineering_degree": true,
+    "skills": [
+      "Product Management",
+      "Product Roadmapping",
+      "User Research",
+      "Data Analytics",
+      "SQL",
+      "Python",
+      "AdTech"
+    ],
+    "previous_roles": [
+      {
+        "title": "Product Manager - 2",
+        "company": "Samsung Ads",
+        "duration": "March 2024 - Present"
+      },
+      {
+        "title": "Product Manager - 1",
+        "company": "Samsung Ads",
+        "duration": "May 2022 - February 2024"
+      },
+      {
+        "title": "Manager - Data Analytics",
+        "company": "Zapr Media Labs",
+        "duration": "October 2020 - April 2022"
+      },
+      {
+        "title": "Senior Data Analyst",
+        "company": "Zapr Media Labs",
+        "duration": "October 2018 - September 2020"
+      },
+      {
+        "title": "Data Analyst",
+        "company": "Zapr Media Labs",
+        "duration": "October 2017 - September 2018"
+      },
+      {
+        "title": "System Engineer",
+        "company": "Infosys",
+        "duration": "July 2015 - September 2017"
+      }
+    ],
+    "achievements": [
+      "Designed an end-to-end automated report delivery framework using Python and SQL",
+      "Crafted and tested various data methodologies for media data reporting",
+      "Designed an automated framework with stored procedures to reduce ~80% of manual work"
+    ],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "Adtech",
+      "Advertising Technology",
+      "Data Analytics",
+      "Product Management",
+      "Media Analytics"
+    ],
+    "filename": "Aman Goel.pdf"
+  },
+  "profile_002": {
+    "name": "Payal Pankhuri",
+    "current_role": "Product Manager",
+    "current_company": "Samsung Electronics",
+    "years_of_experience": 6,
+    "education": [
+      {
+        "institution": "Indian School of Business",
+        "degree": "Master of Business Administration (MBA)",
+        "years": "April 2022 - April 2023"
+      },
+      {
+        "institution": "Vellore Institute of Technology",
+        "degree": "Bachelor of Technology, Computer Science",
+        "years": "2015 - 2019"
+      },
+      {
+        "institution": "Delhi Public School Noida",
+        "degree": "High School Diploma",
+        "years": "2015"
+      }
+    ],
+    "has_mba": true,
+    "has_engineering_degree": true,
+    "skills": [
+      "Test Automation",
+      "Agile Methodologies",
+      "Cloud Computing",
+      "Generative AI",
+      "Product Management"
+    ],
+    "previous_roles": [
+      {
+        "title": "Product Manager",
+        "company": "Samsung Electronics",
+        "duration": "August 2024 - Present"
+      },
+      {
+        "title": "Product Manager",
+        "company": "ZEE Entertainment Enterprises Limited",
+        "duration": "June 2023 - July 2024"
+      },
+      {
+        "title": "Software Engineer",
+        "company": "Wells Fargo",
+        "duration": "January 2022 - April 2022"
+      },
+      {
+        "title": "Engineering Associate",
+        "company": "Wells Fargo",
+        "duration": "July 2020 - January 2022"
+      },
+      {
+        "title": "Analyst",
+        "company": "Wells Fargo",
+        "duration": "July 2019 - June 2020"
+      },
+      {
+        "title": "Intern",
+        "company": "Wells Fargo",
+        "duration": "February 2019 - June 2019"
+      },
+      {
+        "title": "Summer Intern",
+        "company": "NTPC Limited",
+        "duration": "June 2017 - July 2017"
+      }
+    ],
+    "achievements": [
+      "PM for Generative AI-based Health & Personalisation features on Samsung flagship devices",
+      "Built social and gamification experiences for ZEE5 to boost engagement and retention",
+      "Optimized cloud-native microservices at Wells Fargo, reducing downtime and improving reliability"
+    ],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "Mobile / Consumer Electronics",
+      "Generative AI",
+      "Media & Entertainment",
+      "Financial Services / Banking",
+      "Cloud Computing / Microservices",
+      "Product Management"
+    ],
+    "filename": "Payal Pankhuri.pdf"
+  },
+  "profile_003": {
+    "name": "Tarun Gopalakrishnan",
+    "current_role": "Group Product Manager",
+    "current_company": "Samsung Electronics",
+    "years_of_experience": 14,
+    "education": [
+      {
+        "institution": "IIM Bangalore",
+        "degree": "Master of Business Administration (MBA)",
+        "field": "Business Administration and Management",
+        "years": "2012-2014"
+      },
+      {
+        "institution": "Anna University",
+        "degree": "Bachelor of Engineering",
+        "field": "Electronics and Communication",
+        "years": "2005-2009"
+      }
+    ],
+    "has_mba": true,
+    "has_engineering_degree": true,
+    "skills": [
+      "Product Management",
+      "Competitive Analysis",
+      "Cross-functional Team Leadership",
+      "Key Performance Indicators (KPIs)",
+      "User Growth",
+      "Experimentation",
+      "User-Centered Design"
+    ],
+    "previous_roles": [
+      {
+        "title": "Group Product Manager",
+        "company": "Samsung Electronics",
+        "duration": "March 2023 - Present"
+      },
+      {
+        "title": "Senior Product Manager",
+        "company": "Samsung Electronics",
+        "duration": "September 2016 - March 2023"
+      },
+      {
+        "title": "Business Finance Partner",
+        "company": "Flipkart",
+        "duration": "April 2014 - September 2016"
+      },
+      {
+        "title": "Summer Intern (Marketing)",
+        "company": "Reckitt Benckiser",
+        "duration": "April 2013 - May 2013"
+      },
+      {
+        "title": "Software Engineer",
+        "company": "Robert Bosch Engineering and Business Solutions Ltd.",
+        "duration": "July 2009 - June 2011"
+      }
+    ],
+    "achievements": [
+      "Led product development from concept to market",
+      "Focused on driving user growth through controlled experiments and user-friendly design"
+    ],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "Consumer Electronics",
+      "E-commerce",
+      "Consumer Goods (CPG)",
+      "Software/Engineering Services"
+    ],
+    "filename": "Profile (1).pdf"
+  },
+  "profile_004": {
+    "name": "Prachi Agrawal",
+    "current_role": "Product Manager",
+    "current_company": "Samsung R&D Institute India - Bangalore",
+    "years_of_experience": 4.0,
+    "education": [
+      {
+        "degree": "Bachelor of Engineering",
+        "field": "Electrical Engineering",
+        "institution": "NIT Surat",
+        "location": "Surat, India",
+        "year": null
+      }
+    ],
+    "has_mba": false,
+    "has_engineering_degree": true,
+    "skills": [
+      "Product Management",
+      "Machine Learning",
+      "Data Analysis",
+      "SQL",
+      "Python",
+      "GenAI",
+      "A/B Testing",
+      "User Experience (UX)",
+      "CRM & Loyalty",
+      "Marketing Strategy",
+      "Cross-functional Leadership"
+    ],
+    "previous_roles": [
+      {
+        "title": "Product Manager",
+        "company": "Samsung R&D Institute India - Bangalore",
+        "duration": "May 2024 - Present"
+      },
+      {
+        "title": "Product Manager",
+        "company": "Thrive Now",
+        "duration": "July 2023 - April 2024"
+      },
+      {
+        "title": "Associate Product Manager",
+        "company": "KitaBeli",
+        "duration": "October 2021 - July 2023"
+      }
+    ],
+    "achievements": [
+      "Generated $11M in incremental revenue from predictive purchase propensity model at Samsung.",
+      "Reduced operational inefficiencies by 36% by deploying enterprise analytics platform across 76 subsidiaries; saved 80+ man-hours monthly and increased user satisfaction by 17%.",
+      "Delivered Smart Query & Schema Assistant; reduced data turnaround time by 36%, saving 80+ man-hours monthly.",
+      "Developed GenAI text-to-SQL assistant achieving 70% accuracy.",
+      "Improved NPS by 5% and reduced churn by 3% in 6 months by identifying barriers and implementing real-time NPS alerts.",
+      "Deployed ML-based stock-out prevention model across 29 subsidiaries, reducing potential revenue loss by 2%.",
+      "Led a cross-functional team of 10 analysts and 3 data scientists supporting 100+ users.",
+      "Thrive Now: 27% more campaign setups, 15% higher loyalty enrollments, 14% increase in subscription revenue.",
+      "Upselling features on Direct Ordering Platform increased average order value by 13%.",
+      "CAC below $1 by scaling referral programs and optimizing onboarding flows at KitaBeli."
+    ],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "Enterprise analytics",
+      "AI/ML-powered product development",
+      "B2C CRM & Loyalty",
+      "SaaS product platforms",
+      "Growth / Product-led Growth",
+      "Data-driven decision making",
+      "Experimentation (A/B testing)",
+      "Cross-functional leadership"
+    ],
+    "filename": "Profile (10).pdf"
+  },
+  "profile_005": {
+    "name": "Samuel N.",
+    "current_role": "Senior Product Manager",
+    "current_company": "Amazon",
+    "years_of_experience": 11,
+    "education": [
+      {
+        "institution": "INSEAD",
+        "degree": "Master of Business Administration (MBA)"
+      },
+      {
+        "institution": "National University of Singapore",
+        "degree": ""
+      }
+    ],
+    "has_mba": true,
+    "has_engineering_degree": false,
+    "skills": [
+      "Product Management",
+      "Roadmapping",
+      "Stakeholder Management",
+      "Cross-functional Leadership",
+      "Agile",
+      "Strategic Planning",
+      "Product Lifecycle Management",
+      "Data Analysis",
+      "Market Research",
+      "User Research",
+      "MRD/PRD",
+      "Negotiation"
+    ],
+    "previous_roles": [
+      {
+        "title": "Senior Product Manager",
+        "company": "Amazon",
+        "duration": "April 2020 - Present"
+      },
+      {
+        "title": "Senior Product Manager",
+        "company": "Samsung",
+        "duration": "2014 - Present"
+      }
+    ],
+    "achievements": [],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "E-commerce",
+      "Consumer Electronics",
+      "Technology",
+      "Product Management"
+    ],
+    "filename": "Profile (11).pdf"
+  },
+  "profile_006": {
+    "name": "Parthib Deka",
+    "current_role": "Product Manager - II",
+    "current_company": "Samsung Electronics",
+    "years_of_experience": 9,
+    "education": [
+      {
+        "degree": "MBA, Information Management",
+        "institution": "SPJIMR SP Jain Institute of Management & Research",
+        "year": null
+      },
+      {
+        "degree": "B.Tech., Computer Engineering",
+        "institution": "SRM University (Sri Ramaswamy Memorial University)",
+        "year": "2012-2016"
+      },
+      {
+        "degree": "Science",
+        "institution": "Army Public School Narangi",
+        "year": "2012"
+      }
+    ],
+    "has_mba": true,
+    "has_engineering_degree": true,
+    "skills": [
+      "Generative AI Tools",
+      "Go-to-Market Strategy",
+      "UX and Conversion Optimisation",
+      "AI-driven product innovation",
+      "Growth analytics",
+      "Customer journey analytics",
+      "Predictive analytics",
+      "Stakeholder management",
+      "Agile product delivery",
+      "Cross-functional leadership",
+      "D2C e-commerce",
+      "Real-time revenue analytics"
+    ],
+    "previous_roles": [
+      {
+        "title": "Intern (R&D BUSS)",
+        "company": "Ericsson India Global Pvt Ltd",
+        "duration": "January 2016 - June 2016"
+      },
+      {
+        "title": "Graduate Engineering Trainee",
+        "company": "Nokia",
+        "duration": "August 2016 - July 2017"
+      },
+      {
+        "title": "Senior Software Engineer",
+        "company": "Nokia",
+        "duration": "August 2017 - July 2019"
+      },
+      {
+        "title": "R&D Engineer",
+        "company": "Nokia",
+        "duration": "August 2019 - December 2021"
+      }
+    ],
+    "achievements": [
+      "Increased e-commerce conversions by 20% MoM and reduced cancellations by 12% MoM through predictive analytics and UX enhancements",
+      "Scaled a global anomaly detection platform across 50+ markets, driving real-time revenue insights for Samsung’s D2C business",
+      "Pre-launched GenAI-driven Auto Repair Guide, reducing turnaround time and boosting CSAT",
+      "Reduced stockout-related losses by 7% and improved model recall rate by 34%",
+      "Delivered 90% on-time delivery compliance and reduced return rates to 5% through predictive analytics"
+    ],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "D2C e-commerce",
+      "Telecommunications",
+      "AI / GenAI applications",
+      "Digital transformation",
+      "Growth analytics",
+      "AI-driven product management",
+      "Customer journey optimization"
+    ],
+    "filename": "Profile (12).pdf"
+  },
+  "profile_007": {
+    "name": "Muskaan Singla",
+    "current_role": "Product Manager",
+    "current_company": "Samsung R&D Institute India",
+    "years_of_experience": 3.83,
+    "education": [
+      {
+        "institution": "Thapar Institute of Engineering & Technology",
+        "degree": "Bachelor's degree",
+        "field": "Electrical, Electronics and Communications Engineering",
+        "years": "2018-2022"
+      }
+    ],
+    "has_mba": false,
+    "has_engineering_degree": true,
+    "skills": [
+      "SQL",
+      "Python",
+      "Tableau",
+      "Excel",
+      "Agile product management",
+      "Data visualization",
+      "Market strategy",
+      "Learning Management Systems",
+      "Product knowledge",
+      "Product training",
+      "Localization",
+      "Cross-functional collaboration",
+      "Global product launches",
+      "APAC market",
+      "LMS",
+      "HomeKit / AirPlay integration"
+    ],
+    "previous_roles": [
+      {
+        "title": "Product Manager",
+        "company": "Samsung R&D Institute India",
+        "duration": "July 2022 - Present"
+      },
+      {
+        "title": "International Sales Associate",
+        "company": "Mercer",
+        "duration": "January 2022 - June 2022"
+      },
+      {
+        "title": "Sales Associate Intern (APAC)",
+        "company": "Mercer Mettl",
+        "duration": "January 2022 - June 2022"
+      }
+    ],
+    "achievements": [
+      "Led Loewe Flagship TV launch for Germany; increased adoption by 20%; delivered 4 firmware updates reducing bugs by 10%",
+      "Rolled out Over-the-Network AI firmware for 13 ODM models using Python & SQL; improved post-launch stability by 12%",
+      "Enabled Apple HomeKit and AirPlay on 25Y series; boosted sales by 10%; eliminated redundant components to reduce cost by 8%",
+      "Built rapid RC system across 5 teams; facilitated timely app certifications with Netflix & Prime Video",
+      "Mercer/L&D expansion: engaged 100+ clients in SE Asia (Vietnam, Indonesia, Bangladesh)",
+      "Delivered 10+ product demos; reduced hiring time by 20% and increased product subscriptions by 15%"
+    ],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "Consumer electronics",
+      "Smart TV / Home Entertainment",
+      "AI firmware",
+      "IoT / Home automation",
+      "Localization / market strategy",
+      "Product management",
+      "APAC market"
+    ],
+    "filename": "Profile (13).pdf"
+  },
+  "profile_008": {
+    "name": "Saransh Pahwa",
+    "current_role": "Product Manager",
+    "current_company": "Samsung Ads",
+    "years_of_experience": 10,
+    "education": [
+      {
+        "institution": "NIT K",
+        "degree": null,
+        "field_of_study": null,
+        "year": null
+      }
+    ],
+    "has_mba": false,
+    "has_engineering_degree": true,
+    "skills": [
+      "Product Management",
+      "Go-To-Market Strategy",
+      "Roadmapping",
+      "Pricing",
+      "Cross-functional Leadership",
+      "Stakeholder Management",
+      "User Research",
+      "MVP Development",
+      "Data Analysis",
+      "AdTech",
+      "Out-of-Home Advertising (DOOH)",
+      "CTV / Connected TV",
+      "Voicebots / AI-powered features",
+      "Partnerships",
+      "Sales Strategy"
+    ],
+    "previous_roles": [
+      {
+        "title": "Product Manager",
+        "company": "Samsung Ads",
+        "duration": "April 2022 - Present"
+      },
+      {
+        "title": "Principal - Strategic Initiatives",
+        "company": "Zapr Media Labs",
+        "duration": "January 2021 - May 2022"
+      },
+      {
+        "title": "Manager - Strategic Initiatives",
+        "company": "Zapr Media Labs",
+        "duration": "January 2019 - December 2020"
+      },
+      {
+        "title": "Senior Associate - Strategic Initiatives",
+        "company": "Zapr Media Labs",
+        "duration": "January 2018 - December 2018"
+      },
+      {
+        "title": "Consultant",
+        "company": "Bain & Company",
+        "duration": "Unknown"
+      }
+    ],
+    "achievements": [
+      "Led Samsung's largest Geo Services Migration: transitioned $1B business to more accurate geo data; unlocked $10M revenue opportunity; coordinated 80+ developers across 4 countries; delivered zero-incident cutover; earned Samsung Team Excellence Award; mentored 2 PMs.",
+      "Scaled Digital Out-of-Home (DOOH) Supply Platform from MVP to $1M annual revenue; pivoted to direct sales; launched Hy-Vee partnership (10k+ screens); delivered efficiency features saving hours per operation; recognized with 3 global Samsung awards including Ace Employee of the Year.",
+      "Built voicebot platform at Zapr Media Labs from concept to pilots; delivered 3 pilots (ecommerce feedback, car lead qualification, insurance reminders) achieving 1/10th human cost and 5x speed improvements; managed cross-functional execution from sales to operations.",
+      "Led patent-winning TV marketing optimizer among data science teams; reduced marketing costs by 30% (Patent #507927); built and commercialized ACR-powered content measurement solution for CTVs; led 7-engineer team and global BD strategy with TV OEMs and partners.",
+      "Gained exposure to end-to-end sales lifecycle: PPT design, value proposition, pitching, and commercials; managed several sales conversations independently."
+    ],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "AdTech",
+      "Out-of-Home Advertising (DOOH)",
+      "CTV / Connected TV",
+      "Voicebots / AI-powered features",
+      "Geolocation / Geo data",
+      "Enterprise platforms",
+      "Product management / GTM / Pricing",
+      "Global program management",
+      "Partnerships",
+      "Sales strategy"
+    ],
+    "filename": "Profile (14).pdf"
+  },
+  "profile_009": {
+    "name": "Ashwin Kumar K S",
+    "current_role": "Product Manager",
+    "current_company": "Samsung R&D Institute India - Bangalore",
+    "years_of_experience": 12,
+    "education": [
+      {
+        "institution": "XLRI Jamshedpur",
+        "degree": "PGDBM, Business Management",
+        "years": "June 2017 - February 2019"
+      },
+      {
+        "institution": "National Institute of Technology Karnataka",
+        "degree": "Bachelor of Technology (B.Tech.), Mechanical Engineering",
+        "years": "2010 - 2014"
+      },
+      {
+        "institution": "Sri Kumaran Children's Home",
+        "degree": "CBSE High School, Science",
+        "years": "2008 - 2010"
+      },
+      {
+        "institution": "Sri Kumaran Public School",
+        "degree": "ICSE",
+        "years": "1998 - 2008"
+      }
+    ],
+    "has_mba": true,
+    "has_engineering_degree": true,
+    "skills": [
+      "Product Management",
+      "AI Product Management",
+      "Product Strategy",
+      "Business Requirements",
+      "Cross-functional Team Leadership",
+      "IoT Product Development",
+      "Advertising Technology",
+      "E-commerce Advertising",
+      "Supply Chain Design",
+      "Process Improvement",
+      "Data Visualization"
+    ],
+    "previous_roles": [
+      {
+        "title": "Product Manager",
+        "company": "Samsung R&D Institute India - Bangalore",
+        "duration": "June 2024 - Present"
+      },
+      {
+        "title": "AI Product Manager",
+        "company": "FuboTV",
+        "duration": "December 2022 - June 2024"
+      },
+      {
+        "title": "Product Manager",
+        "company": "Jio Ads (Reliance Industries)",
+        "duration": "October 2020 - December 2022"
+      },
+      {
+        "title": "Management Trainee",
+        "company": "Reliance Retail",
+        "duration": "January 2020 - September 2020"
+      },
+      {
+        "title": "Management Trainee",
+        "company": "Reliance Industries Limited",
+        "duration": "June 2019 - December 2019"
+      },
+      {
+        "title": "Summer Intern",
+        "company": "Reliance Retail",
+        "duration": "April 2018 - May 2018"
+      },
+      {
+        "title": "Manager",
+        "company": "Reliance Industries Limited",
+        "duration": "July 2014 - June 2017"
+      },
+      {
+        "title": "Summer Intern",
+        "company": "GE Research",
+        "duration": "May 2013 - July 2013"
+      },
+      {
+        "title": "Industrial Trainee",
+        "company": "Hindustan Aeronautics Limited",
+        "duration": "June 2012 - July 2012"
+      }
+    ],
+    "achievements": [
+      "Built AI solutions to improve sports content watching experience for consumers across multiple countries (FuboTV)",
+      "Built new products for advertisers, including e-commerce advertising and a TV-based app (Jio Ads)",
+      "On-ground implementation of vehicle tracking systems across all petrochemical sites (Reliance Industries Limited)",
+      "Improvement of Physical inventory process & Capacity planning for new retail warehouses (Reliance Retail)",
+      "Commissioning of Captive Power Plant for J3 project of RIL at Jamnagar site",
+      "Star Performer",
+      "Runner-Up - Tata Crucible Campus Quiz (Jamshedpur Region)",
+      "Quiz – Jamshedpur Region Winner",
+      "Bronze medals (various competitions)"
+    ],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "Advertising technology",
+      "E-commerce advertising",
+      "AI in product management",
+      "Media / sports content",
+      "IoT / vehicle tracking",
+      "Supply chain & logistics",
+      "Industrial / manufacturing"
+    ],
+    "filename": "Profile (15).pdf"
+  },
+  "profile_010": {
+    "name": "Himanshu S.",
+    "current_role": "Senior Product Manager",
+    "current_company": "Samsung Electronics",
+    "years_of_experience": 9,
+    "education": [
+      {
+        "institution": "Indian Institute of Management, Calcutta",
+        "degree": "Post Graduation Diploma in Management",
+        "years": "2013 - 2015"
+      },
+      {
+        "institution": "Delhi College of Engineering",
+        "degree": "Bachelor of Engineering - BE, Computer Science",
+        "years": "2008 - 2012"
+      }
+    ],
+    "has_mba": false,
+    "has_engineering_degree": true,
+    "skills": [
+      "Wireframing",
+      "SEO",
+      "Digital Strategy",
+      "Product Management",
+      "UX/UI collaboration",
+      "Cross-functional leadership",
+      "Requirements gathering",
+      "Go-to-market",
+      "Data-driven decision making"
+    ],
+    "previous_roles": [
+      {
+        "title": "Product Management Consultant",
+        "company": "Boston Consulting Group (BCG)",
+        "duration": "January 2023 – December 2023"
+      },
+      {
+        "title": "Senior Product Manager",
+        "company": "byrd",
+        "duration": "August 2022 – November 2022"
+      },
+      {
+        "title": "Product Manager",
+        "company": "Velory",
+        "duration": "March 2022 – April 2022"
+      },
+      {
+        "title": "Product Management Consultant",
+        "company": "McKinsey & Company",
+        "duration": "January 2020 – August 2021"
+      },
+      {
+        "title": "Product Manager",
+        "company": "Paytm",
+        "duration": "May 2015 – December 2019"
+      },
+      {
+        "title": "Summer Intern",
+        "company": "Nucleus Software",
+        "duration": "April 2014 – May 2014"
+      },
+      {
+        "title": "Developer Trainee",
+        "company": "SapientNitro",
+        "duration": "November 2012 – April 2013"
+      },
+      {
+        "title": "Software Developer Internship",
+        "company": "Etcinfotech - India",
+        "duration": "June 2011 – July 2011"
+      }
+    ],
+    "achievements": [
+      "Created a platform for vehicle insurance purchases at Paytm and launched across platforms.",
+      "Owned end-to-end features for Bill Payments and improved user and merchant touchpoints.",
+      "Improved consumer search algorithm and built search tracking matrices."
+    ],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "Insurance",
+      "FinTech / Payments",
+      "Consumer Search / Discovery",
+      "Digital Product Management",
+      "Technology / Software Development"
+    ],
+    "filename": "Profile (16).pdf"
+  },
+  "profile_011": {
+    "name": "Indraneel Dutt",
+    "current_role": "Product Manager II (Fintech)",
+    "current_company": "Samsung Electronics",
+    "years_of_experience": 9,
+    "education": [
+      {
+        "degree": "MBA in Marketing",
+        "institution": "SIBM Pune",
+        "year_range": "2019-2021"
+      },
+      {
+        "degree": "B.Tech in Electronics and Communications Engineering (ECE)",
+        "institution": "Guru Gobind Singh Indraprastha University, Delhi",
+        "year_range": "2012-2016"
+      }
+    ],
+    "has_mba": true,
+    "has_engineering_degree": true,
+    "skills": [
+      "Product Management",
+      "User Experience (UX)",
+      "Leadership",
+      "Fintech",
+      "B2B SaaS",
+      "Strategy",
+      "Business Development",
+      "Cross-functional Team Leadership",
+      "Digital Identity / KYC",
+      "Payments & Lending",
+      "Domestic Money Transfer (DMT)",
+      "Onboarding / Identity Verification"
+    ],
+    "previous_roles": [
+      {
+        "title": "Senior Product Manager (Fintech - B2B SaaS)",
+        "company": "Trustt (formerly Novopay)",
+        "duration": "July 2024 - July 2025"
+      },
+      {
+        "title": "Product Manager II (Fintech)",
+        "company": "Samsung Electronics",
+        "duration": "August 2025 - Present"
+      }
+    ],
+    "achievements": [
+      "Annual best performer award in Product Management at Trustt (Novopay Solutions) - 2024-25",
+      "Product Maverick Award at Ninjacart (2022-23)",
+      "Best conversion ratio in sales award at Koenig Solutions (3 consecutive months)",
+      "Best salesperson award (2016-17) at Koenig Solutions",
+      "Ranked in top 10 salespersons in Delhi (NCR) for revenue achievement at BYJU's",
+      "National UnStop Top College Performer (SIBM Pune) – part of 12 awards/accolades",
+      "National bodybuilding champion (Men's Physique) – 2018",
+      "SSB recommendation for Indian Navy (batch 2016)"
+    ],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "Fintech",
+      "E-commerce / Payments",
+      "Digital Identity / KYC",
+      "Banking",
+      "Retail",
+      "SaaS / B2B SaaS",
+      "Mobile/Web Product Strategy"
+    ],
+    "filename": "Profile (17).pdf"
+  },
+  "profile_012": {
+    "name": "Amit Pandey",
+    "current_role": "Senior Product Manager",
+    "current_company": "Samsung R&D Institute India",
+    "years_of_experience": 14,
+    "education": [
+      {
+        "institution": "Indian Institute of Management Bangalore",
+        "degree": "MBA",
+        "field": "Business Administration and Management"
+      }
+    ],
+    "has_mba": true,
+    "has_engineering_degree": false,
+    "skills": [
+      "Product management",
+      "Computational photography",
+      "Photography",
+      "Videography",
+      "Team leadership",
+      "Cross-functional collaboration",
+      "UX collaboration",
+      "Stakeholder management",
+      "People management",
+      "Camera features",
+      "RAW imaging workflows",
+      "Post-processing pipelines",
+      "Brand collaboration"
+    ],
+    "previous_roles": [
+      {
+        "title": "Senior Product Manager",
+        "company": "Samsung R&D Institute India",
+        "duration": "March 2022 - Present (3 years 8 months)"
+      },
+      {
+        "title": "Photographer",
+        "company": "Freelance",
+        "duration": "April 2015 - Present (10 years 7 months)"
+      }
+    ],
+    "achievements": [
+      "Led development for Samsung Expert RAW app, a flagship pro-grade camera app, with 30M+ downloads globally.",
+      "Led cross-functional teams (engineering, UX, marketing) to deliver best-in-class photography and videography experiences for Galaxy devices.",
+      "Background as professional photographer shaping real-world storytelling through computational photography improvements."
+    ],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "Computational photography",
+      "Mobile camera software",
+      "Pro camera apps",
+      "Image processing",
+      "RAW workflows",
+      "Videography",
+      "Product management"
+    ],
+    "filename": "Profile (18).pdf"
+  },
+  "profile_013": {
+    "name": "Varsha Ramesh",
+    "current_role": "Product Marketing Manager",
+    "current_company": "Samsung Electronics",
+    "years_of_experience": 2.25,
+    "education": [
+      {
+        "institution": "Bangalore University",
+        "degree": "Bachelor of Business Administration (BBA)",
+        "field": "Accounting and Finance",
+        "start_year": 2022,
+        "end_year": 2025
+      },
+      {
+        "institution": "RNS First Grade College",
+        "degree": "Bachelor of Business Administration (BBA)",
+        "field": "Accounting and Finance",
+        "start_year": 2022,
+        "end_year": 2025
+      }
+    ],
+    "has_mba": false,
+    "has_engineering_degree": false,
+    "skills": [
+      "Account handling",
+      "Management",
+      "Multitasking",
+      "Key account management",
+      "Product marketing",
+      "Campaign planning"
+    ],
+    "previous_roles": [],
+    "achievements": [],
+    "has_tech_background": false,
+    "domain_expertise": [
+      "Product Marketing",
+      "Key Account Management",
+      "Marketing Campaigns",
+      "Consumer Electronics",
+      "Brand Management"
+    ],
+    "filename": "Profile (19).pdf"
+  },
+  "profile_014": {
+    "name": "Sarath Kshatriya",
+    "current_role": "Product Manager",
+    "current_company": "Samsung R&D Institute India",
+    "years_of_experience": 7.5,
+    "education": [
+      {
+        "degree": "MBA",
+        "institution": "Indian Institute of Management Udaipur",
+        "field": "Business Administration"
+      },
+      {
+        "degree": "B.Tech",
+        "institution": "Pondicherry Engineering College",
+        "field": "Electrical and Electronics Engineering"
+      }
+    ],
+    "has_mba": true,
+    "has_engineering_degree": true,
+    "skills": [
+      "Market Research",
+      "Product Strategy",
+      "Roadmapping",
+      "Prioritization",
+      "Backlog Ownership",
+      "User Stories and Acceptance Criteria Definition",
+      "A/B Testing",
+      "Ecommerce",
+      "Agile & Scrum Methodologies",
+      "Wireframing",
+      "Product Analytics",
+      "SQL Querying",
+      "Generative AI",
+      "Large Language Models (LLM)",
+      "Retrieval-Augmented Generation (RAG)",
+      "Prompt Engineering"
+    ],
+    "previous_roles": [
+      {
+        "title": "Associate Product Manager",
+        "company": "Publicis Sapient",
+        "duration": "May 2022 - July 2024"
+      },
+      {
+        "title": "Technology Consultant",
+        "company": "Accenture",
+        "duration": "April 2021 - June 2021"
+      },
+      {
+        "title": "Product Manager",
+        "company": "MUTHOOT MICROFIN LTD.",
+        "duration": "March 2021 - June 2021"
+      },
+      {
+        "title": "Software Engineer",
+        "company": "Infosys",
+        "duration": "April 2018 - July 2020"
+      }
+    ],
+    "achievements": [
+      "Created and optimized make-to-order and make-to-stock journeys for Nissan to increase order conversion rates",
+      "Optimized product listing pages with regional pricing, dynamic filters, and sort criteria for better product discovery",
+      "Enhanced PDP/configurator with trade-in estimator and finance calculator to improve micro conversions (test drive bookings) and order conversions",
+      "Launched B2B ecommerce platform with subscription management and order management for Colgate",
+      "Developed dynamic pricing engine with volume-based intelligent pricing and discount management",
+      "Built ETL pipelines and data integration systems for SAP MM module at P&G, ensuring real-time data synchronization and improved data integrity"
+    ],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "E-commerce",
+      "Automotive Ecommerce",
+      "B2B Ecommerce",
+      "Fintech / Microfinance",
+      "Enterprise Data & ETL",
+      "Product Management"
+    ],
+    "filename": "Profile (2).pdf"
+  },
+  "profile_015": {
+    "name": "Sanjay Narasimha Murthy",
+    "current_role": "Head of Product - Vision, XR & AI (General Manager)",
+    "current_company": "Samsung Electronics",
+    "years_of_experience": 15,
+    "education": [
+      {
+        "degree": "Master's in Computer Engineering",
+        "institution": ""
+      }
+    ],
+    "has_mba": false,
+    "has_engineering_degree": true,
+    "skills": [
+      "Product Management",
+      "Vision & XR",
+      "Artificial Intelligence (AI)",
+      "Multimedia Systems",
+      "Tizen Platform",
+      "GStreamer",
+      "Augmented Reality (AR)",
+      "Image Processing / Computer Vision",
+      "Convolution-based Image Filtering",
+      "Open Source Contributions",
+      "Stakeholder Management",
+      "Prototyping / Proof of Concepts",
+      "Market & Trend Analysis",
+      "Cross-functional Leadership"
+    ],
+    "previous_roles": [
+      {
+        "title": "Head of Product - Vision, XR & AI (General Manager)",
+        "company": "Samsung Electronics (SRIB)",
+        "duration": "March 2020 - Present"
+      },
+      {
+        "title": "Product Manager (Associate Architect)",
+        "company": "Samsung Electronics",
+        "duration": "December 2017 - Present"
+      },
+      {
+        "title": "Principal Engineer",
+        "company": "Samsung Electronics",
+        "duration": "March 2016 - Present"
+      },
+      {
+        "title": "Principal Engineer",
+        "company": "Samsung Electronics",
+        "duration": "January 2017 - December 2017"
+      },
+      {
+        "title": "Senior Chief Engineer",
+        "company": "Samsung Electronics",
+        "duration": "March 2011 - February 2016"
+      },
+      {
+        "title": "Senior Project Manager",
+        "company": "L&T Integrated Engineering Service",
+        "duration": "January 2011 - March 2011"
+      }
+    ],
+    "achievements": [
+      "Led product management for Samsung smartphone camera, XR, multimedia and AI features, driving competitiveness through trend analysis and early investments.",
+      "Drove end-to-end product lifecycle from concept to launch, including ideation, proposals, proofs of concept, and stakeholder alignment.",
+      "Delivered Tizen 4G smartphones features with MVP/PRD, coordinating with R&D, UX, and testing teams to maintain market competitiveness.",
+      "Developed and integrated Stereo 3D Capture, Content Aware Resize, Golf Shot, and Image Classification for Galaxy S3, S4, S5, and Note2.",
+      "Led development of AR platforms and applications; contributed to Open Source Upstream for GStreamer; mentored a team of 15 engineers."
+    ],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "Smartphone Camera",
+      "XR (Extended Reality)",
+      "Artificial Intelligence (AI)",
+      "Multimedia",
+      "Tizen OS / Mobile Platforms",
+      "GStreamer / Open Source",
+      "Augmented Reality",
+      "Image Processing / Computer Vision",
+      "Stereo 3D Capture",
+      "Content Aware Image Resize",
+      "APIs & Prototyping",
+      "Product Lifecycle Management"
+    ],
+    "filename": "Profile (20).pdf"
+  },
+  "profile_016": {
+    "name": "Not visible",
+    "current_role": "Product Marketing Manager",
+    "current_company": "Samsung Electronics",
+    "years_of_experience": 11,
+    "education": [],
+    "has_mba": false,
+    "has_engineering_degree": false,
+    "skills": [
+      "Team Management",
+      "Business Strategy",
+      "PowerPoint",
+      "Product Marketing",
+      "Category Management",
+      "Ecommerce / D2C",
+      "Go-to-Market",
+      "Revenue Growth",
+      "Pricing",
+      "Promotions",
+      "Cross-functional Collaboration",
+      "Demand Planning",
+      "Digital Marketing",
+      "Channel Management",
+      "Sales Enablement",
+      "Data-Driven Decision Making",
+      "Market Expansion",
+      "Strategic Planning",
+      "Team Leadership"
+    ],
+    "previous_roles": [
+      {
+        "title": "Product Marketing Manager",
+        "company": "Samsung Electronics",
+        "duration": "September 2023 - Present"
+      },
+      {
+        "title": "Ecommerce Manager",
+        "company": "Dell Technologies",
+        "duration": "November 2018 - September 2023"
+      },
+      {
+        "title": "Key Account Manager",
+        "company": "Dell Technologies",
+        "duration": "May 2016 - October 2018"
+      },
+      {
+        "title": "Summer Intern",
+        "company": "Dabur India Limited",
+        "duration": "April 2015 - June 2015"
+      },
+      {
+        "title": "Software Engineer",
+        "company": "HCL Technologies",
+        "duration": "November 2011 - May 2014"
+      }
+    ],
+    "achievements": [
+      "Doubled revenue for the laptop/category (Note PC) in 2024 through targeted promotions and channel expansion.",
+      "Recognized for outstanding contribution to category growth and exceeding sales targets.",
+      "Accelerated e-commerce revenue and delivered digital transformation at Dell Technologies.",
+      "Led growth of Dell's D2C business with improved online revenue and customer conversions.",
+      "National Finalist – Cognizant Quizczars (First Runner Up); National Finalist – DigiGo (Imperatoria); Live Wire Award – National Winner."
+    ],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "Electronics / Consumer Electronics",
+      "Ecommerce / D2C",
+      "Product Marketing",
+      "Category Management",
+      "Retail / Modern Trade",
+      "Go-to-Market Strategy",
+      "Digital Transformation",
+      "Data-Driven Growth"
+    ],
+    "filename": "Profile (21).pdf"
+  },
+  "profile_017": {
+    "name": "Piyush Deshmukh",
+    "current_role": "Product Manager 2",
+    "current_company": "Samsung Ads",
+    "years_of_experience": 6.5,
+    "education": [],
+    "has_mba": false,
+    "has_engineering_degree": false,
+    "skills": [
+      "Product Road Mapping",
+      "Defining Product Requirements",
+      "Recommender Systems",
+      "A/B Testing",
+      "Cross-functional Collaboration",
+      "Personalization",
+      "Data Analytics / Insights",
+      "User Engagement",
+      "Gamification",
+      "Mobile / TV / Web platforms"
+    ],
+    "previous_roles": [
+      {
+        "title": "Product Manager 2",
+        "company": "Samsung Ads",
+        "duration": "June 2024 - Present"
+      },
+      {
+        "title": "Product Manager",
+        "company": "Zee Entertainment Enterprises Limited",
+        "duration": "April 2021 - March 2024"
+      },
+      {
+        "title": "Associate Product Manager",
+        "company": "Onsitego",
+        "duration": "June 2020 - March 2021"
+      },
+      {
+        "title": "Assistant Product Manager",
+        "company": "Jio",
+        "duration": "March 2019 - June 2019"
+      }
+    ],
+    "achievements": [
+      "Launched Recommendations on Zee5 leading to 11% increase in Home-Page landing to View Ratio.",
+      "Revamped Up Next functionality resulting in 28% increase in Video Views and 27% in Watch-Time.",
+      "Continue Watching enhancements increased click-through rate by 20% and reduced Home Page Landing to Video View time by 50% for returning users.",
+      "Revamped Home Page Navigation improving discoverability; 3.5% increase in viewer-to-user ratio and 5% increase in videos from navigational panel.",
+      "Implemented A/B Testing framework to carry out experiments and incremental feature improvements.",
+      "Launched Profiles Feature on Connected Devices, increasing video views per viewer by 17%.",
+      "Android TV integration for discoverability increased Video Views by 5%.",
+      "Onsitego: Gamification and personalized notifications led to 15% higher sales volume and 20% re-activation of existing sellers.",
+      "Multi-Cart, Quick-Checkout and improved payment experience reduced selling time by 20%.",
+      "DIY features for service requests and credit management reduced TAT from 2 days to 5 minutes; improved CSAT/TAT."
+    ],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "Ad Tech / Advertising Platforms",
+      "Streaming / Entertainment",
+      "Mobile / TV / Web platforms",
+      "Content discovery & recommendations",
+      "E-commerce / Retail Sales Enablement",
+      "Digital Television / Android TV",
+      "Subscription & Revenue Growth"
+    ],
+    "filename": "Profile (22).pdf"
+  },
+  "profile_018": {
+    "name": "Venkatesh Mopuru",
+    "current_role": "Senior Product Manager",
+    "current_company": "Samsung R&D Institute India",
+    "years_of_experience": 12,
+    "education": [
+      {
+        "school": "SRM University",
+        "degree": "Master's",
+        "field": "Database Systems",
+        "period": "2012 - 2014"
+      },
+      {
+        "school": "Anna University",
+        "degree": "Bachelor's",
+        "field": "Information Technology",
+        "period": "2007 - 2011"
+      }
+    ],
+    "has_mba": false,
+    "has_engineering_degree": true,
+    "skills": [
+      "IT Business Analysis",
+      "FinTech",
+      "Product Roadmapping",
+      "Agile / Scrum (Certified Scrum Product Owner)",
+      "Stakeholder Management",
+      "Payment Processing",
+      "Loan Services",
+      "Partner Integrations",
+      "RFP Management",
+      "SQL",
+      "AWS (S3 Basics)",
+      "Excel (Project Management Tracker)"
+    ],
+    "previous_roles": [
+      {
+        "title": "Lead Business Analyst",
+        "company": "Accenture",
+        "duration": "August 2021 - March 2022"
+      },
+      {
+        "title": "Senior Product Analyst",
+        "company": "Photon",
+        "duration": "December 2019 - August 2021"
+      },
+      {
+        "title": "Business Analyst",
+        "company": "LaserBeam Software",
+        "duration": "August 2017 - December 2019"
+      },
+      {
+        "title": "Junior Business Analyst",
+        "company": "RR Donnelley India Outsource Private Limited",
+        "duration": "June 2014 - July 2017"
+      }
+    ],
+    "achievements": [
+      "Led Samsung Finance+ project bridging business and technology to enable EMI financing without credit history",
+      "Created end-to-end mobile application for Fiserv",
+      "Developed digital solution for CCHBC enabling leadership in B2B",
+      "Acted as a consultant to the sales team to raise RFPs for acquiring new clients",
+      "Managed end-to-end integrations and configurable compensation modules at LaserBeam",
+      "Captured requirements and created user stories for Metrics 2.0 & PRF projects at RR Donnelley"
+    ],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "FinTech",
+      "Payments",
+      "Lending",
+      "Retail / Ecommerce",
+      "B2B Solutions",
+      "Mobile Applications",
+      "Enterprise Software"
+    ],
+    "filename": "Profile (23).pdf"
+  },
+  "profile_019": {
+    "name": "Satyajit Anand",
+    "current_role": "Technical Product Manager",
+    "current_company": "Samsung R&D Institute India - Bangalore",
+    "years_of_experience": 9,
+    "education": [
+      {
+        "institution": "IIM Bangalore",
+        "degree": "MBA"
+      }
+    ],
+    "has_mba": true,
+    "has_engineering_degree": false,
+    "skills": [
+      "eSIM",
+      "IoT",
+      "DLNA",
+      "Android",
+      "Tizen",
+      "C",
+      "C++",
+      "Python",
+      "Shell scripting",
+      "Linux",
+      "Automation",
+      "Networking",
+      "AI/ML",
+      "SMDP+",
+      "GSMA SGP.22",
+      "Device Subscription Management",
+      "MNOs"
+    ],
+    "previous_roles": [
+      {
+        "title": "Architect",
+        "company": "Samsung R&D Institute India - Bangalore",
+        "duration": "April 2020 - Present"
+      },
+      {
+        "title": "Senior Chief Engineer",
+        "company": "Samsung R&D Institute India - Bangalore",
+        "duration": "November 2017 - March 2020"
+      },
+      {
+        "title": "Chief Engineer",
+        "company": "Samsung R&D Institute India - Delhi",
+        "duration": "August 2016 - November 2017"
+      },
+      {
+        "title": "GMP Engineer",
+        "company": "Samsung Electronics, Seoul, South Korea",
+        "duration": "August 2015 - August 2016"
+      }
+    ],
+    "achievements": [
+      "6 Patents as Primary Inventor in eSIM and Reinforcement Learning based AI solution",
+      "Samsung Best Paper Award (SBPA) nominee for eSIM On-Device Roaming Solution",
+      "C-Lab Selection in Top 80 Patents by Government of India for the United Nations' Sustainable Development Goal Charter",
+      "Won National Carrom Championship (Under 12 - Age Group)",
+      "Won State Badminton Championship (Under 14 - Age Group)",
+      "Winner of Annual Employee Awards, IP Creator Awards, and Best Coder Award"
+    ],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "IoT",
+      "eSIM",
+      "Android",
+      "Tizen",
+      "DLNA",
+      "Smartwatch/Wearables",
+      "AI/ML",
+      "Device Subscription Management",
+      "Telecom / MNOs / GSMA standards",
+      "GSMA SGP.22",
+      "SMDP+",
+      "Linux",
+      "Automation"
+    ],
+    "filename": "Profile (24).pdf"
+  },
+  "profile_020": {
+    "name": "Prateek Shukla",
+    "current_role": "Product Manager 2",
+    "current_company": "Samsung Ads",
+    "years_of_experience": 9,
+    "education": [],
+    "has_mba": false,
+    "has_engineering_degree": false,
+    "skills": [
+      "Product Management",
+      "Program Management",
+      "Product Quality",
+      "Product Delivery",
+      "New Product Rollout",
+      "Customer Insights",
+      "Analytics",
+      "KPIs & Dashboards",
+      "Incident Management",
+      "Stakeholder Communication"
+    ],
+    "previous_roles": [
+      {
+        "title": "Product Manager 2",
+        "company": "Samsung Ads",
+        "duration": "August 2024 - Present"
+      },
+      {
+        "title": "Product Manager",
+        "company": "Zee Entertainment Enterprises Limited",
+        "duration": "November 2021 - March 2024"
+      },
+      {
+        "title": "Sr. Program Manager @ Eat.Fit",
+        "company": "Cure.Fit",
+        "duration": "November 2019 - November 2021"
+      },
+      {
+        "title": "Program Manager - Play",
+        "company": "Ola (ANI Technologies Pvt. Ltd)",
+        "duration": "April 2018 - November 2019"
+      },
+      {
+        "title": "City Manager - Play",
+        "company": "Ola (ANI Technologies Pvt. Ltd)",
+        "duration": "January 2017 - March 2018"
+      }
+    ],
+    "achievements": [
+      "Launched CDN platform at Zee Entertainment, improving user experience and reducing costs by ~22% while handling billions of requests.",
+      "Expanded platform reach to cater 20 PB/M consumption traffic through strategic partnerships.",
+      "Implemented KPIs and dashboards (Cache Hit, TTFB) for data-driven decisions.",
+      "Reduced user-impacting incidents by ~40% via comprehensive monitoring system.",
+      "Defined Auto Remediation framework, improving incident resolution TAT by ~80%.",
+      "Onboarded multiple brands to Eat.Fit (Break-N-Pour model improved BSM ~20%).",
+      "Led supply growth initiatives including 2x increase in play supply and 800 cars added in a month; launched Ola Play marketing campaigns; sold 3000 Ola Play devices generating ~INR 6.53 Crores revenue.",
+      "Launched Play operations in Bangalore, achieving 10K active base."
+    ],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "Digital Advertising",
+      "Media & Entertainment Technology",
+      "Food & Beverage / Food Delivery",
+      "Ride-hailing / Mobility",
+      "Platform & Infrastructure",
+      "Supply Chain & Logistics"
+    ],
+    "filename": "Profile (25).pdf"
+  },
+  "profile_021": {
+    "name": "Sanket Kabra",
+    "current_role": "General Manager - Product Management",
+    "current_company": "Samsung Ads",
+    "years_of_experience": 13,
+    "education": [
+      {
+        "institution": "Indian Institute of Management, Ahmedabad",
+        "degree": "MBA",
+        "field": "General Management",
+        "years": "2010-2012"
+      },
+      {
+        "institution": "Indian Institute of Technology, Bombay",
+        "degree": "B.Tech.",
+        "field": "Electrical Engineering",
+        "years": "2006-2010"
+      }
+    ],
+    "has_mba": true,
+    "has_engineering_degree": true,
+    "skills": [
+      "Product Management",
+      "Strategy & Analytics",
+      "Business Development",
+      "Management Consulting",
+      "Google Ads",
+      "Market Entry",
+      "Sales Strategy",
+      "Operations Excellence",
+      "Procurement Strategy",
+      "Training & Development",
+      "Knowledge Management",
+      "Leadership"
+    ],
+    "previous_roles": [
+      {
+        "title": "General Manager - Product Management",
+        "company": "Samsung Ads",
+        "duration": "April 2024 – Present"
+      },
+      {
+        "title": "Senior Product Manager",
+        "company": "Samsung Ads",
+        "duration": "May 2022 – March 2024"
+      },
+      {
+        "title": "SVP, Strategy & Analytics",
+        "company": "Zapr Media Labs",
+        "duration": "December 2021 – April 2022"
+      },
+      {
+        "title": "VP, Strategy & Analytics",
+        "company": "Zapr Media Labs",
+        "duration": "March 2020 – November 2021"
+      },
+      {
+        "title": "VP, Strategy",
+        "company": "Zapr Media Labs",
+        "duration": "June 2019 – March 2020"
+      },
+      {
+        "title": "AVP, Strategy and Operations",
+        "company": "Zapr Media Labs",
+        "duration": "May 2017 – May 2019"
+      },
+      {
+        "title": "Head of Business Development",
+        "company": "Craftsvilla",
+        "duration": "February 2016 – March 2017"
+      },
+      {
+        "title": "Consultant",
+        "company": "The Boston Consulting Group",
+        "duration": "May 2014 – February 2016"
+      },
+      {
+        "title": "Senior Associate",
+        "company": "The Boston Consulting Group",
+        "duration": "May 2012 – April 2014"
+      },
+      {
+        "title": "Summer Analyst, Equity Research",
+        "company": "Nomura",
+        "duration": "April 2011 – June 2011"
+      }
+    ],
+    "achievements": [
+      "Developed healthcare domain solutions and designed sales strategy for an Indian IT major",
+      "Enabled operational excellence practices to ramp up throughput at one of Asia's largest zinc mines",
+      "Redesigned procurement strategy at one of India's largest Oil & Gas players",
+      "Designed and implemented Knowledge Management system at a global mining giant in South Africa",
+      "Developed a training and personnel development strategy as a part of internal research",
+      "Played an instrumental role in IIMA campus recruitment program"
+    ],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "Healthcare",
+      "Information Technology / IT Services",
+      "Mining",
+      "Oil & Gas",
+      "Advertising / Media",
+      "E-commerce / Retail",
+      "Finance / Equity Research",
+      "Strategy & Analytics"
+    ],
+    "filename": "Profile (26).pdf"
+  },
+  "profile_022": {
+    "name": "Aayush Tuteja",
+    "current_role": "Senior Product Manager (Martech)",
+    "current_company": "Samsung Electronics America",
+    "years_of_experience": 6,
+    "education": [],
+    "has_mba": false,
+    "has_engineering_degree": false,
+    "skills": [
+      "Product Management",
+      "Product Strategy",
+      "Product Development",
+      "Agile Methodologies",
+      "User Experience (UX)",
+      "Growth",
+      "MarTech",
+      "Cross-functional Leadership",
+      "Data Analytics",
+      "User Engagement",
+      "Web3",
+      "Blockchain",
+      "Operations"
+    ],
+    "previous_roles": [
+      {
+        "title": "Senior Product Manager (Martech)",
+        "company": "Samsung Electronics America",
+        "duration": "October 2024 - Present"
+      },
+      {
+        "title": "Founder",
+        "company": "Nothing Before Coffee",
+        "duration": "January 2023 - May 2024"
+      },
+      {
+        "title": "Product Manager",
+        "company": "Bayzat",
+        "duration": "October 2021 - December 2022"
+      },
+      {
+        "title": "Product Management / Senior Business Analyst",
+        "company": "Soroco",
+        "duration": "3 years 1 month"
+      }
+    ],
+    "achievements": [
+      "Led the product team for a new mobile app that generated over $1 million in revenue in its first year",
+      "Developed and executed a product strategy that resulted in a 20% increase in customer satisfaction",
+      "Successfully launched a new product feature that increased user engagement by 50%",
+      "Managed a team of 10 product managers and engineers",
+      "Successfully delivered multiple products on time and within budget",
+      "Achieved 6 lakhs MRR at Nothing Before Coffee",
+      "Drove a 30% reduction in customer queries on insurance benefits at Bayzat",
+      "60% increase in DAU and 20% boost in sales by launching wellness module MVP",
+      "170% growth in online doctor feature adoption at Bayzat",
+      "Reduced time to value of health app by 10 days via digital insurance cards"
+    ],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "Martech",
+      "Growth",
+      "Mobile Apps",
+      "Healthcare & Insurance",
+      "Wellness",
+      "Web3/Blockchain",
+      "Retail",
+      "Startup / Entrepreneurship"
+    ],
+    "filename": "Profile (27).pdf"
+  },
+  "profile_023": {
+    "name": "Dilpreet Singh",
+    "current_role": "Deputy General Manager",
+    "current_company": "Samsung Electronics",
+    "years_of_experience": 12,
+    "education": [
+      {
+        "institution": "Indian Institute of Management Bangalore",
+        "degree": "EGMP",
+        "field_of_study": "Business Administration and Management",
+        "duration": "June 2021 - April 2022"
+      },
+      {
+        "institution": "J.C. Bose University of Science and Technology, YMCA",
+        "degree": "Bachelor's degree",
+        "field_of_study": "Mechanical Engineering",
+        "duration": "2009 - 2013"
+      }
+    ],
+    "has_mba": false,
+    "has_engineering_degree": true,
+    "skills": [
+      "Business Development",
+      "Product Management",
+      "Distribution Channel Management",
+      "Category Management",
+      "Strategic Planning",
+      "Go-to-Market",
+      "Market Analysis",
+      "Cross-functional Leadership",
+      "Vendor/Stakeholder Management"
+    ],
+    "previous_roles": [
+      {
+        "title": "Assistant Product Manager",
+        "company": "PANASONIC INDIA PVT LTD.",
+        "duration": "June 2013 - November 2019"
+      },
+      {
+        "title": "Category Manager - White Goods",
+        "company": "TCL Electronics India",
+        "duration": "November 2019 - July 2022"
+      },
+      {
+        "title": "Product Manager",
+        "company": "Samsung Electronics",
+        "duration": "August 2022 - March 2025"
+      }
+    ],
+    "achievements": [],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "Consumer Electronics",
+      "Home Appliances",
+      "Product Management",
+      "Category Management",
+      "Distribution / Channel Management"
+    ],
+    "filename": "Profile (28).pdf"
+  },
+  "profile_024": {
+    "name": "Shaleen Rohilla",
+    "current_role": "Product Manager",
+    "current_company": "Samsung Semiconductor",
+    "years_of_experience": 5,
+    "education": [],
+    "has_mba": false,
+    "has_engineering_degree": false,
+    "skills": [
+      "Product Management"
+    ],
+    "previous_roles": [],
+    "achievements": [],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "Semiconductors"
+    ],
+    "filename": "Profile (29).pdf"
+  },
+  "profile_025": {
+    "name": "Mayank Singh",
+    "current_role": "Senior Product Manager",
+    "current_company": "Samsung Electronics",
+    "years_of_experience": 17,
+    "education": [
+      {
+        "institution": "Indian Institute of Management, Bangalore",
+        "degree": "PGDM",
+        "start_year": 2009,
+        "end_year": 2011
+      },
+      {
+        "institution": "Indian Institute of Information Technology, Gwalior",
+        "degree": "Integrated Post Graduate (B.Tech + M.Tech), Information Technology",
+        "start_year": 2003,
+        "end_year": 2008
+      }
+    ],
+    "has_mba": true,
+    "has_engineering_degree": true,
+    "skills": [
+      "Product Management",
+      "Business Analysis",
+      "CRM",
+      "Strategy",
+      "Agile",
+      "Design Thinking",
+      "Digital Transformation",
+      "Omni-Channel Retailing",
+      "E-Commerce",
+      "Enterprise Architecture",
+      "Analytics",
+      "Innovation Management"
+    ],
+    "previous_roles": [
+      {
+        "title": "Product Manager",
+        "company": "Samsung Electronics",
+        "duration": "December 2017 - February 2019"
+      },
+      {
+        "title": "Innovation Program Manager",
+        "company": "Samsung Electronics",
+        "duration": "December 2013 - November 2017"
+      },
+      {
+        "title": "Consultant",
+        "company": "iGATE Global Solutions",
+        "duration": "May 2011 - November 2013"
+      },
+      {
+        "title": "Assistant System Engineer",
+        "company": "Tata Consultancy Services",
+        "duration": "September 2008 - April 2009"
+      }
+    ],
+    "achievements": [
+      "Built a hybrid innovation ecosystem at Samsung Electronics to incubate disruptive innovations and accelerate incremental innovations for future business growth and sustainable competitive advantage across multiple product lines."
+    ],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "Retail (General, Apparel & Fashion, CPG)",
+      "Omni-Channel Retail",
+      "E-Commerce",
+      "Social Media Analytics",
+      "Digital Transformation",
+      "Enterprise Architecture"
+    ],
+    "filename": "Profile (3).pdf"
+  },
+  "profile_026": {
+    "name": "Varun Verma",
+    "current_role": "Senior Manager-Product Analytics",
+    "current_company": "Samsung Ads",
+    "years_of_experience": 14,
+    "education": [
+      {
+        "institution": "K.J. Somaiya Institute Of Management Studies and Research",
+        "degree": "Master of Business Administration (MBA)",
+        "field": "Business Administration, Management and Operations",
+        "years": "2014-2016"
+      },
+      {
+        "institution": "Northern India Engineering College",
+        "degree": "Engineer’s Degree",
+        "field": "Computer Science",
+        "years": "2006-2010"
+      }
+    ],
+    "has_mba": true,
+    "has_engineering_degree": true,
+    "skills": [
+      "Project Management",
+      "Data Analytics",
+      "Data Modeling",
+      "Business Intelligence",
+      "RDBMS",
+      "SQL",
+      "SAP Sales & Distribution",
+      "E-commerce",
+      "Management Consulting",
+      "PMP Certification"
+    ],
+    "previous_roles": [
+      {
+        "title": "Senior Manager-Product Analytics",
+        "company": "Samsung Ads",
+        "duration": "May 2024 - Present"
+      },
+      {
+        "title": "Data Analytics Manager",
+        "company": "LetsTransport",
+        "duration": "January 2022 - May 2024"
+      },
+      {
+        "title": "Director- Data Strategy and Democratization",
+        "company": "Kantar",
+        "duration": "January 2020 - January 2022"
+      },
+      {
+        "title": "Domain Consultant",
+        "company": "Kantar Millward Brown",
+        "duration": "April 2019 - January 2020"
+      },
+      {
+        "title": "Associate Consultant",
+        "company": "Analytics Quotient Pvt Ltd",
+        "duration": "July 2016 - April 2019"
+      },
+      {
+        "title": "System Engineer",
+        "company": "Infosys Technologies Ltd",
+        "duration": "June 2010 - June 2014"
+      }
+    ],
+    "achievements": [
+      "PMP certified Project Manager",
+      "Directed Data Strategy and Democratization initiatives at Kantar",
+      "Holder of B1/B2 US Visa, eligible for onsite assignments"
+    ],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "Data Analytics",
+      "Product Analytics",
+      "Data Strategy",
+      "Management Consulting",
+      "Business Intelligence",
+      "E-commerce",
+      "SAP Sales & Distribution"
+    ],
+    "filename": "Profile (30).pdf"
+  },
+  "profile_027": {
+    "name": "Rahul Singh",
+    "current_role": "General Manager (Product Management)",
+    "current_company": "Samsung R&D Institute India",
+    "years_of_experience": 16,
+    "education": [],
+    "has_mba": false,
+    "has_engineering_degree": false,
+    "skills": [
+      "Product management",
+      "Strategy & roadmapping",
+      "Cross-functional leadership",
+      "Team building (Diversity, Equity & Inclusion)",
+      "Global expansion",
+      "Fintech / digital lending",
+      "Partnerships & vendor management",
+      "User experience (UX)",
+      "Market planning",
+      "Problem solving",
+      "Stakeholder management",
+      "Data-driven decision making"
+    ],
+    "previous_roles": [
+      {
+        "title": "Senior Manager (Product)",
+        "company": "Samsung R&D Institute India",
+        "duration": "July 2020 - February 2023"
+      },
+      {
+        "title": "Manager",
+        "company": "Samsung R&D Institute India",
+        "duration": "February 2018 - July 2020"
+      },
+      {
+        "title": "Project Manager",
+        "company": "EMC",
+        "duration": "August 2015 - January 2018"
+      },
+      {
+        "title": "Consultant - Advisory Services",
+        "company": "EY",
+        "duration": "July 2014 - August 2015"
+      },
+      {
+        "title": "Business Development Executive",
+        "company": "Twenty Four Systems Pvt. Ltd.",
+        "duration": "April 2013 - July 2014"
+      },
+      {
+        "title": "Summer Intern",
+        "company": "Marsh",
+        "duration": "April 2012 - June 2012"
+      },
+      {
+        "title": "Assistant Project Officer",
+        "company": "Delhi 2010 Commonwealth Games",
+        "duration": "August 2009 - November 2010"
+      }
+    ],
+    "achievements": [
+      "Launched Samsung Finance+ in Thailand (KB J Capital).",
+      "Launched Samsung Finance+ in Indonesia (Kredivo & Home Credit).",
+      "Launched Samsung Finance+ in Vietnam (Kredivo).",
+      "Launched Samsung Finance+ in Philippines (Union Bank).",
+      "Led global expansion of Samsung Finance+ across Southeast Asia, Middle East & North Africa, and Latin America.",
+      "Defined strategy and roadmap for Samsung Finance+; built and led a diverse, inclusive product management team.",
+      "Drove cross-functional collaboration with Engineering, Marketing, Legal, UX to deliver features from concept to launch."
+    ],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "Fintech / digital lending",
+      "Product management and strategy",
+      "Global expansion / international markets",
+      "R&D / technology strategy",
+      "Consulting and advisory services",
+      "Business development"
+    ],
+    "filename": "Profile (31).pdf"
+  },
+  "profile_028": {
+    "name": "Raj Rajan",
+    "current_role": "Technical Product Manager",
+    "current_company": "Samsung Electronics",
+    "years_of_experience": 23,
+    "education": [
+      {
+        "institution": "Indian Institute of Technology, Roorkee",
+        "degree": "M.Tech., Computer Science",
+        "years": "1999 - 2001"
+      },
+      {
+        "institution": "National Institute of Technology Surat",
+        "degree": "BE, Electrical Engineering",
+        "years": "1993 - 1997"
+      }
+    ],
+    "has_mba": false,
+    "has_engineering_degree": true,
+    "skills": [
+      "Embedded Systems",
+      "RTOS",
+      "Device Drivers",
+      "Telecommunications",
+      "VoLTE",
+      "VoWiFi",
+      "Radio Interface Layer",
+      "Video Streaming",
+      "Video Telephony",
+      "Mobile TV",
+      "On-Device AI",
+      "Machine Learning",
+      "Deep Learning",
+      "Product Management",
+      "Technical Product Management",
+      "Project Management",
+      "Agile Methodologies",
+      "Software Development"
+    ],
+    "previous_roles": [
+      {
+        "title": "Technical Product Manager",
+        "company": "Samsung Electronics",
+        "duration": "January 2018 - Present (7 years 10 months)"
+      },
+      {
+        "title": "Project Manager",
+        "company": "Samsung Electronics",
+        "duration": "January 2015 - December 2017 (3 years)"
+      },
+      {
+        "title": "Development Manager",
+        "company": "Samsung India Software Operations, Bangalore",
+        "duration": "January 2012 - December 2014 (3 years)"
+      },
+      {
+        "title": "Development Lead",
+        "company": "Samsung India Software Operations",
+        "duration": "January 2009 - December 2011 (3 years)"
+      },
+      {
+        "title": "Technical Lead",
+        "company": "Samsung India Software Operations",
+        "duration": "January 2006 - December 2008 (3 years)"
+      },
+      {
+        "title": "Lead Engineer",
+        "company": "Samsung India Software Operations",
+        "duration": "January 2004 - December 2005 (2 years)"
+      },
+      {
+        "title": "Senior Software Engineer - II",
+        "company": "Samsung India Software Operations",
+        "duration": "January 2004 - December 2004 (1 year)"
+      },
+      {
+        "title": "Senior Software Engineer",
+        "company": "Samsung India Software Operations",
+        "duration": "October 2003 - December 2003 (3 months)"
+      },
+      {
+        "title": "Senior Software Engineer",
+        "company": "Wipro Technologies",
+        "duration": "April 2001 - September 2003 (2 years 6 months)"
+      }
+    ],
+    "achievements": [
+      "Led on-device AI TPM initiatives for Samsung Global and India",
+      "Managed Samsung Tizen India product development for Z2, Z3, Z4",
+      "Directed Telephony Stack development and deployment",
+      "Contributed to VoLTE and VoWiFi feature development across devices"
+    ],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "Embedded Systems",
+      "Mobile / Telecommunications",
+      "On-Device AI",
+      "Machine Learning / Deep Learning",
+      "Product Management / Technical Product Management",
+      "Software Development",
+      "Telecommunication Standards (VoLTE, VoWiFi)",
+      "Video Technologies",
+      "Tizen / Mobile OS"
+    ],
+    "filename": "Profile (32).pdf"
+  },
+  "profile_029": {
+    "name": "Vibhushit Dixit",
+    "current_role": "Product Manager",
+    "current_company": "SAMSUNG R&D INSTITUTE INDIA - BANGALORE PRIVATE LIMITED",
+    "years_of_experience": 12,
+    "education": [
+      {
+        "institution": "DIT School of Engineering",
+        "degree": "Electrical, Electronics and Communications Engineering",
+        "start_year": 2009,
+        "end_year": 2013
+      },
+      {
+        "institution": "Delhi Public School - R. K. Puram",
+        "degree": "High School Diploma, Mathematics",
+        "start_year": 2007,
+        "end_year": 2009
+      },
+      {
+        "institution": "Delhi Public School - R. K. Puram",
+        "degree": "High School",
+        "start_year": 2006,
+        "end_year": 2007
+      }
+    ],
+    "has_mba": false,
+    "has_engineering_degree": true,
+    "skills": [
+      "Data Analysis",
+      "Product Development",
+      "Android"
+    ],
+    "previous_roles": [
+      {
+        "title": "Senior Software Engineer",
+        "company": "SAP Labs India",
+        "duration": "July 2013 - June 2014"
+      }
+    ],
+    "achievements": [],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "Product Management",
+      "Software Engineering",
+      "Mobile / Android",
+      "R&D"
+    ],
+    "filename": "Profile (33).pdf"
+  },
+  "profile_030": {
+    "name": "Anuj Agrawal",
+    "current_role": "Product Manager",
+    "current_company": "Samsung Electronics",
+    "years_of_experience": 6.25,
+    "education": [
+      {
+        "institution": "Indian Institute of Management Bangalore",
+        "degree": "MBA",
+        "duration": "March 2024 - March 2025"
+      },
+      {
+        "institution": "National Institute of Technology Durgapur",
+        "degree": "Bachelor of Technology (BTech)",
+        "field_of_study": "Computer Science",
+        "duration": "July 2014 - June 2018"
+      },
+      {
+        "institution": "Bharatiya Vidya Bhavan",
+        "degree": "Junior High/Intermediate/Middle School Education and Teaching",
+        "duration": "2007 - 2014"
+      }
+    ],
+    "has_mba": true,
+    "has_engineering_degree": true,
+    "skills": [
+      "On-Device AI",
+      "Camera AI",
+      "Product Management",
+      "System Intelligence"
+    ],
+    "previous_roles": [
+      {
+        "title": "Product Manager",
+        "company": "Samsung Electronics",
+        "duration": "April 2025 - Present"
+      },
+      {
+        "title": "Lead Software Engineer",
+        "company": "Qualcomm",
+        "duration": "November 2023 - March 2024"
+      },
+      {
+        "title": "Senior Software Engineer",
+        "company": "Qualcomm",
+        "duration": "December 2021 - November 2023"
+      },
+      {
+        "title": "Engineer",
+        "company": "Qualcomm",
+        "duration": "July 2018 - November 2021"
+      }
+    ],
+    "achievements": [],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "Mobile devices",
+      "Embedded security / chipset security",
+      "AI / On-device AI",
+      "XR devices",
+      "Product development for hardware/software features"
+    ],
+    "filename": "Profile (34).pdf"
+  },
+  "profile_031": {
+    "name": "Basavaraj Anehosur",
+    "current_role": "Product Manager",
+    "current_company": "Samsung Ads",
+    "years_of_experience": 8,
+    "education": [
+      {
+        "institution": "Indian Institute of Management Bangalore",
+        "degree": "MBA",
+        "field": "Strategy & Product Management",
+        "start": "April 2023",
+        "end": "March 2024"
+      },
+      {
+        "institution": "The National Institute Of Engineering, Mysore",
+        "degree": "Bachelor's degree",
+        "field": "Electrical and Electronics Engineering",
+        "start": "2013",
+        "end": "2017"
+      },
+      {
+        "institution": "Alva's College, Moodabidri, Karnataka",
+        "degree": "Pre-University College",
+        "field": "PCMB",
+        "start": "July 2011",
+        "end": "April 2013"
+      }
+    ],
+    "has_mba": true,
+    "has_engineering_degree": true,
+    "skills": [
+      "Java",
+      "MySQL",
+      "Unit Testing",
+      "REST APIs",
+      "Spring Boot",
+      "JUnit",
+      "Mockito",
+      "BDD",
+      "API Design",
+      "API Development",
+      "Agile / Scrum",
+      "Leadership",
+      "Mentoring",
+      "Data Analysis",
+      "Product Management"
+    ],
+    "previous_roles": [
+      {
+        "title": "Product Manager",
+        "company": "Samsung Ads",
+        "duration": "April 2024 - Present"
+      },
+      {
+        "title": "Placement Representative",
+        "company": "Indian Institute of Management Bangalore",
+        "duration": "April 2023 - April 2024"
+      },
+      {
+        "title": "Application Development Senior Analyst",
+        "company": "Accenture",
+        "duration": "December 2021 - February 2023"
+      },
+      {
+        "title": "Application Development Analyst",
+        "company": "Accenture",
+        "duration": "February 2020 - November 2021"
+      },
+      {
+        "title": "Associate Software Engineer",
+        "company": "EY",
+        "duration": "July 2017 - August 2019"
+      },
+      {
+        "title": "Placement Coordinator",
+        "company": "The National Institute Of Engineering, Mysore",
+        "duration": "June 2016 - June 2017"
+      },
+      {
+        "title": "Student Assistant",
+        "company": "Power Research and Development Consultants Pvt Ltd",
+        "duration": "August 2014 - November 2016"
+      }
+    ],
+    "achievements": [
+      "Developed an API capable of processing 2 million records per month",
+      "Led a team of 3 to identify opportunities for innovation and automation",
+      "Designed and implemented multiple APIs to revamp a client's legacy application",
+      "Mentored student interns and supported new joiners to understand project requirements",
+      "Achieved high code quality and code coverage using SONAR",
+      "Developed REST web services with Spring Boot and tested APIs using JUnit/Mockito"
+    ],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "AdTech",
+      "Product Management",
+      "Software Development",
+      "API Development",
+      "Backend Systems",
+      "Data Analysis"
+    ],
+    "filename": "Profile (35).pdf"
+  },
+  "profile_032": {
+    "name": "Vishwanatha Nayak",
+    "current_role": "National Product Manager and Business Head DR",
+    "current_company": "Samsung India Electronics Pvt Ltd",
+    "years_of_experience": 14.25,
+    "education": [],
+    "has_mba": false,
+    "has_engineering_degree": false,
+    "skills": [
+      "Product Management",
+      "Career Management",
+      "Interview Preparation",
+      "Leadership",
+      "Motivational Leadership",
+      "Coaching",
+      "Transitioning to Product Management",
+      "Interviewing for Product Management Jobs"
+    ],
+    "previous_roles": [
+      {
+        "title": "National Product Manager DR",
+        "company": "Samsung India Electronics Pvt Ltd",
+        "duration": "April 2023 - Present"
+      },
+      {
+        "title": "National Application Specialist Manager DR",
+        "company": "Samsung India Electronics Pvt Ltd",
+        "duration": "September 2016 - March 2023"
+      },
+      {
+        "title": "Regional Product Manager South",
+        "company": "Konica Minolta Healthcare India Pvt.Ltd",
+        "duration": "January 2012 - August 2016"
+      }
+    ],
+    "achievements": [],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "Product Management",
+      "Healthcare",
+      "Medical Imaging",
+      "Digital Radiography (DR)",
+      "Enterprise Solutions",
+      "Regional Market Management"
+    ],
+    "filename": "Profile (36).pdf"
+  },
+  "profile_033": {
+    "name": "Agastya Tiwari",
+    "current_role": "Product Manager",
+    "current_company": "Samsung Electronics",
+    "years_of_experience": 6,
+    "education": [
+      {
+        "degree": "MBA",
+        "school": "IIM Bangalore",
+        "field": "Business Administration",
+        "year": null,
+        "location": "Bengaluru, India"
+      }
+    ],
+    "has_mba": true,
+    "has_engineering_degree": false,
+    "skills": [
+      "Product Management",
+      "Conversational AI",
+      "Home AI",
+      "Wearable AI",
+      "AI/ML/LLMs",
+      "Recommendation Systems",
+      "Search Engines",
+      "Onboarding",
+      "Retention",
+      "Engagement",
+      "Monetization",
+      "Agile & Sprint Planning",
+      "Go-to-market",
+      "Product Analytics",
+      "Vendor Partnerships",
+      "Market Research",
+      "User Research",
+      "Wireframes & Mockups",
+      "Roadmapping"
+    ],
+    "previous_roles": [
+      {
+        "title": "Product Manager",
+        "company": "Samsung Electronics",
+        "duration": "April 2025 - Present"
+      },
+      {
+        "title": "Product Manager",
+        "company": "Amazon MX Player",
+        "duration": "April 2022 - March 2024"
+      }
+    ],
+    "achievements": [
+      "Scaled to 300M+ MAU during tenure at Amazon MX Player",
+      "Increased login rates from 37% to 85%",
+      "Launched 'MX For You', boosting watchtime on the Homepage",
+      "Optimized AI/ML Recommendation system, increasing watchtime",
+      "Spearheaded 0-to-1 journey on Search for CTV apps, delivering additional watchtime",
+      "Launched Genre & Language filters and 'Trending Searches' on iOS and CTVs, boosting watchtime"
+    ],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "Conversational AI",
+      "Home AI",
+      "Wearable AI",
+      "Recommendation Systems",
+      "Search Engines",
+      "AI/ML/LLMs",
+      "Product Management",
+      "Go-To-Market",
+      "Data Analytics",
+      "Vendor Partnerships"
+    ],
+    "filename": "Profile (37).pdf"
+  },
+  "profile_034": {
+    "name": "Atikant Singh",
+    "current_role": "Senior Product Manager - Global Ecommerce AI Search",
+    "current_company": "Samsung Electronics",
+    "years_of_experience": 13.6,
+    "education": [
+      {
+        "institution": "National Institute of Technology Durgapur",
+        "degree": "BTech, Computer Science",
+        "years": "2008-2012"
+      },
+      {
+        "institution": "Army Public School Kolkata",
+        "degree": "High School/Secondary Education",
+        "years": "2006-2008"
+      },
+      {
+        "institution": "Army School Bareilly",
+        "degree": "Primary/Secondary Education",
+        "years": "2004-2006"
+      }
+    ],
+    "has_mba": false,
+    "has_engineering_degree": true,
+    "skills": [
+      "Agile Methodologies",
+      "Product Strategy",
+      "Business Strategy",
+      "AI Search",
+      "Ranking",
+      "Relevance",
+      "Semantic",
+      "NLP",
+      "LLM",
+      "On-Device AI",
+      "Samsung Neural SDK",
+      "Samsung Finder Search (India)",
+      "Samsung Keyboard (India)",
+      "AliveSearch",
+      "AliveKeyboard",
+      "Performance Optimization",
+      "Boot Time Optimization",
+      "Android Platform Improvements"
+    ],
+    "previous_roles": [
+      {
+        "title": "Senior Product Manager - Global Ecommerce AI Search",
+        "company": "Samsung Electronics",
+        "duration": "January 2023 - Present (2 years 10 months)"
+      },
+      {
+        "title": "Senior Product Manager",
+        "company": "Samsung Electronics",
+        "duration": "March 2020 - December 2022 (2 years 10 months)"
+      },
+      {
+        "title": "Product Manager",
+        "company": "Samsung Electronics",
+        "duration": "March 2019 - February 2020 (1 year)"
+      },
+      {
+        "title": "Product Manager",
+        "company": "Samsung Electronics",
+        "duration": "March 2017 - February 2019 (2 years)"
+      },
+      {
+        "title": "Lead Engineer",
+        "company": "Samsung Electronics",
+        "duration": "March 2016 - February 2017 (1 year)"
+      },
+      {
+        "title": "Senior Software Engineer",
+        "company": "Samsung Electronics",
+        "duration": "March 2014 - February 2016 (2 years)"
+      },
+      {
+        "title": "Software Engineer",
+        "company": "Samsung Electronics",
+        "duration": "July 2012 - February 2014 (1 year 8 months)"
+      },
+      {
+        "title": "Intern",
+        "company": "DRDO HQ",
+        "duration": "May 2010 - July 2010 (3 months)"
+      }
+    ],
+    "achievements": [
+      "Spearheaded AI Search initiatives focusing on Ranking, Relevance, Semantic, NLP and LLM for Samsung's Global E-commerce platform",
+      "Drove growth initiatives for Samsung Account in India, enhancing user engagement and experience",
+      "Led on-device AI solutions development (Neural SDK, Keyboard India, Finder Search India) and Make for India features (AliveSearch, AliveKeyboard)",
+      "Implemented boot-time optimizations for Galaxy S8/S9",
+      "Contributed to Android platform/framework improvements for Qualcomm chipsets"
+    ],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "AI-powered search for e-commerce",
+      "Mobile devices and on-device AI",
+      "Android platform and performance optimization",
+      "Product management in technology",
+      "Localization and Make for India initiatives",
+      "Privacy & security features (One UI related)",
+      "Performance optimization and system tuning",
+      "Hardware-software integration (Qualcomm)"
+    ],
+    "filename": "Profile (38).pdf"
+  },
+  "profile_035": {
+    "name": "Samriddh Gupta",
+    "current_role": "Product Manager",
+    "current_company": "Samsung Ads",
+    "years_of_experience": 8,
+    "education": [],
+    "has_mba": false,
+    "has_engineering_degree": false,
+    "skills": [
+      "Data Management",
+      "Product Strategy",
+      "Data-driven Decision Making",
+      "AdTech",
+      "Growth",
+      "Platform Innovation",
+      "Cross-Functional Leadership",
+      "Experimentation",
+      "Privacy & Compliance",
+      "Monetization",
+      "Stakeholder Collaboration"
+    ],
+    "previous_roles": [
+      {
+        "title": "Product Manager",
+        "company": "Phono Technologies (Phono.Mobi)",
+        "duration": "October 2021 - August 2022"
+      },
+      {
+        "title": "Product Manager",
+        "company": "Samsung Ads",
+        "duration": "August 2022 - Present"
+      }
+    ],
+    "achievements": [
+      "Increased advertiser trust by integrating third-party verification to validate ad requests.",
+      "Unlocked new revenue streams by enabling onboarding of third-party inventory with access to their performance metrics.",
+      "Ensured GDPR and CCPA compliance for Samsung SSP to protect user privacy.",
+      "Increased operational efficiency for supply-side operations and creative reviews by improving workflow and governance."
+    ],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "AdTech",
+      "Digital Advertising",
+      "SaaS",
+      "Platform Strategy",
+      "Data-Driven Decision Making",
+      "Privacy & Compliance",
+      "Monetization"
+    ],
+    "filename": "Profile (39).pdf"
+  },
+  "profile_036": {
+    "name": "Sharmin Chowdhury",
+    "current_role": "Senior Product Manager, Product Lead",
+    "current_company": "Samsung Ads",
+    "years_of_experience": 9,
+    "education": [],
+    "has_mba": false,
+    "has_engineering_degree": false,
+    "skills": [
+      "Product Management",
+      "Ad Tech",
+      "SAS",
+      "Product Strategy",
+      "Cross-functional Collaboration",
+      "User Research",
+      "Analytics",
+      "Strategy Consulting",
+      "Business Process Re-engineering",
+      "Project Management",
+      "Vendor Management",
+      "Growth Hacking",
+      "Customer Experience",
+      "Data Platform",
+      "Voice AI",
+      "AI-driven Solutions",
+      "Content Recommendation",
+      "Monetization"
+    ],
+    "previous_roles": [
+      {
+        "title": "AVP Product Strategy",
+        "company": "Zapr Media Labs",
+        "duration": "March 2021 - March 2022"
+      },
+      {
+        "title": "Principal",
+        "company": "Zapr Media Labs",
+        "duration": "September 2019 - February 2021"
+      },
+      {
+        "title": "Manager",
+        "company": "Zapr Media Labs",
+        "duration": "March 2018 - August 2019"
+      },
+      {
+        "title": "Product Manager (Dekho - Movie & Web Series Recommendation)",
+        "company": "Zapr Media Labs",
+        "duration": "November 2018 - May 2020"
+      },
+      {
+        "title": "Senior Consultant - Government & Public Sector",
+        "company": "PwC India",
+        "duration": "April 2016 - February 2018"
+      }
+    ],
+    "achievements": [
+      "Led development of an AI-Driven Voicebot for customer-facing enterprises",
+      "End-to-end ideation, development, and launch of Jeeto Rewards (quiz/survey app with rewards)",
+      "End-to-end ideation, development, and launch of Dekho (content recommendation app)",
+      "Defined product vision, strategy, and roadmap; led cross-functional teams",
+      "Built User Journey frameworks and analyses for ~1 million customers",
+      "Implemented ad monetization across advertising networks in Dekho",
+      "Led Reporting and Data Platform initiatives at Samsung Ads"
+    ],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "Advertising Technology",
+      "SaaS / Cloud-based Solutions",
+      "Voice AI / Voice-based Solutions",
+      "Content / Media & Entertainment Recommendation",
+      "Product Strategy & Growth",
+      "User Research & Analytics",
+      "Public Sector / Government & Public Administration",
+      "Data & Analytics",
+      "Customer Experience"
+    ],
+    "filename": "Profile (4).pdf"
+  },
+  "profile_037": {
+    "name": "Sreejit Ramakumar",
+    "current_role": "General Manager, Product Management",
+    "current_company": "Samsung Electronics",
+    "years_of_experience": 12,
+    "education": [
+      {
+        "degree": "MBA (EPGP)",
+        "institution": "Indian Institute of Management Bangalore",
+        "duration": "Apr 2019 - Mar 2020"
+      }
+    ],
+    "has_mba": true,
+    "has_engineering_degree": false,
+    "skills": [
+      "Java",
+      "DVB",
+      "Set Top Box",
+      "AdTech",
+      "Data Management Platform (DMP)",
+      "Identity Graph",
+      "Audience Targeting",
+      "Cross-device Targeting",
+      "Agile Methodology",
+      "Scrum",
+      "PMP",
+      "CSPO",
+      "Blockchain",
+      "Product Management",
+      "Leadership",
+      "Stakeholder Management",
+      "Go-To-Market (GTM)"
+    ],
+    "previous_roles": [
+      {
+        "title": "Senior Product Manager, Samsung Ads",
+        "company": "Samsung Electronics",
+        "duration": "April 2020 - March 2025"
+      },
+      {
+        "title": "Technical Lead / Product Owner",
+        "company": "Cisco",
+        "duration": "May 2017 - October 2018"
+      },
+      {
+        "title": "Technical Lead / Product Owner",
+        "company": "Synamedia",
+        "duration": "November 2018 - February 2019"
+      }
+    ],
+    "achievements": [
+      "Built Samsung DMP from scratch and integrated with over 15 DMPs worldwide, powering revenue for Samsung Ads' DSP/SSP",
+      "Ideated features such as Audience Export and Access Control to expand Samsung Ads business charter",
+      "Led PMs to build Samsung Identity Graph and Unified Data Warehouse enabling cross-device targeting",
+      "Product Star Award - 2022, Samsung Ads OTTy Awards",
+      "Samsung Citizen Award - 2020, Samsung Research India Bangalore Annual Awards",
+      "Led a team of 10 engineers as Product Owner at Cisco to build features for SKY",
+      "Developed Playback Substitution feature enabling personalized ads during playback of recorded content",
+      "Accelerated bug-fixing by 20% by developing a Python log analysis tool",
+      "Received 6 Connected Recognitions",
+      "Led cross-functional, cross-geo team to build MPEG-DASH features used daily by millions"
+    ],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "AdTech",
+      "Data Management Platform (DMP)",
+      "Identity Graph",
+      "Targeted Advertising",
+      "Internet Streaming / OTT / Video",
+      "Pay-TV / Set-Top Box",
+      "Cross-Device Targeting",
+      "Gaming / Apps Engine",
+      "Agri-tech / Entrepreneurship",
+      "Blockchain"
+    ],
+    "filename": "Profile (40).pdf"
+  },
+  "profile_038": {
+    "name": "Shruti Jayaprakash",
+    "current_role": "On-Device AI Product Manager",
+    "current_company": "Samsung Electronics",
+    "years_of_experience": 9,
+    "education": [
+      {
+        "institution": "Indian Institute of Management Bangalore",
+        "degree": "Master of Business Administration - MBA",
+        "field": null,
+        "duration": "April 2024 - April 2025"
+      },
+      {
+        "institution": "Saïd Business School, University of Oxford",
+        "degree": null,
+        "field": "GNAM - Psychology, Economic Decisions and Financial Markets",
+        "duration": "October 2024 - October 2024"
+      },
+      {
+        "institution": "WHU – Otto Beisheim School of Management",
+        "degree": null,
+        "field": "International Immersion",
+        "duration": "August 2024 - August 2024"
+      },
+      {
+        "institution": "Government College of Technology, Coimbatore",
+        "degree": "Bachelor of Engineering - BE",
+        "field": null,
+        "duration": "July 2012 - May 2016"
+      }
+    ],
+    "has_mba": true,
+    "has_engineering_degree": true,
+    "skills": [
+      "Product Management",
+      "On-device AI",
+      "Cross-functional leadership",
+      "User-centric design",
+      "Buy vs Build analysis",
+      "Tool and vendor evaluation",
+      "Data Platforms",
+      "Business Intelligence",
+      "Analytics",
+      "Agile Methodologies",
+      "Root Cause Analysis",
+      "Business Process Improvement",
+      "Leadership",
+      "Strategic thinking"
+    ],
+    "previous_roles": [
+      {
+        "title": "Lead Product Manager",
+        "company": "Thoughtworks",
+        "duration": "August 2022 – January 2024"
+      },
+      {
+        "title": "Senior Product Manager",
+        "company": "Thoughtworks",
+        "duration": "January 2021 – September 2022"
+      },
+      {
+        "title": "Senior Consultant Business Analyst",
+        "company": "Thoughtworks",
+        "duration": "October 2019 – December 2020"
+      },
+      {
+        "title": "Senior Data Business Analyst",
+        "company": "Thoughtworks",
+        "duration": "August 2018 – December 2020"
+      },
+      {
+        "title": "Consultant Business Analyst",
+        "company": "Thoughtworks",
+        "duration": "December 2017 – October 2019"
+      },
+      {
+        "title": "Software Engineer",
+        "company": "Thoughtworks",
+        "duration": "May 2016 – December 2017"
+      }
+    ],
+    "achievements": [
+      "Led 20-member cross-functional teams to deliver user-centric solutions",
+      "Built multiple products from scratch and scaled them",
+      "Led Buy vs Build analyses and enterprise tool/vendor evaluations",
+      "Experience across data platforms and BI dashboards",
+      "Extensive experience across roles from Developer to Business Analyst and Data BA"
+    ],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "IT products/services",
+      "On-device AI",
+      "Enterprise software/tools",
+      "Data platforms",
+      "Business Intelligence",
+      "Analytics",
+      "Corporate strategy",
+      "Product management"
+    ],
+    "filename": "Profile (41).pdf"
+  },
+  "profile_039": {
+    "name": "Sai Pranav Mathivanan",
+    "current_role": "Senior Product Manager",
+    "current_company": "Samsung Electronics",
+    "years_of_experience": 13,
+    "education": [
+      {
+        "institution": "Indian Institute of Management Bangalore",
+        "degree": "Master of Business Administration (MBA)",
+        "field": "Business Administration and Management",
+        "years": "2019-2020"
+      },
+      {
+        "institution": "Manipal Institute of Technology",
+        "degree": "Bachelor's",
+        "field": "Electrical, Electronics and Communications Engineering",
+        "years": "2008-2012"
+      }
+    ],
+    "has_mba": true,
+    "has_engineering_degree": true,
+    "skills": [
+      "Microsoft Office",
+      "Microsoft Excel",
+      "Strategic Roadmaps",
+      "Product Management",
+      "Oracle Apps",
+      "Oracle Procurement Cloud",
+      "Blockchain",
+      "Stakeholder Management"
+    ],
+    "previous_roles": [
+      {
+        "title": "Senior Product Manager",
+        "company": "Samsung Electronics",
+        "duration": "April 2020 - Present"
+      },
+      {
+        "title": "Senior Consultant",
+        "company": "Oracle",
+        "duration": "September 2018 - March 2019"
+      },
+      {
+        "title": "Oracle Apps Technical Lead",
+        "company": "IBM",
+        "duration": "November 2017 - August 2018"
+      },
+      {
+        "title": "Oracle Apps Technical Consultant",
+        "company": "IBM",
+        "duration": "August 2012 - October 2017"
+      }
+    ],
+    "achievements": [],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "Product Management",
+      "ERP/Oracle Apps",
+      "Enterprise Software",
+      "Cloud/Procurement",
+      "IT Consulting"
+    ],
+    "filename": "Profile (44).pdf"
+  },
+  "profile_040": {
+    "name": "Shubham Sharma",
+    "current_role": "Product Manager",
+    "current_company": "Samsung R&D Institute India",
+    "years_of_experience": 11,
+    "education": [
+      {
+        "institution": "Indian Institute of Management Bangalore",
+        "degree": "Master of Business Administration (MBA)",
+        "year_completed": null
+      },
+      {
+        "institution": "NIIT University",
+        "degree": "B.Tech in Computer Science",
+        "year_completed": 2014
+      }
+    ],
+    "has_mba": true,
+    "has_engineering_degree": true,
+    "skills": [
+      "Product Management",
+      "Go-to-Market Strategy",
+      "Product Roadmapping",
+      "Creative Ideation",
+      "Growth Marketing",
+      "Software Development",
+      "Analytics",
+      "Sales",
+      "Business Development",
+      "Project Management"
+    ],
+    "previous_roles": [
+      {
+        "title": "Product Manager",
+        "company": "Samsung R&D Institute India",
+        "duration": "April 2024 - Present"
+      },
+      {
+        "title": "Product Manager",
+        "company": "Boomitra",
+        "duration": "June 2022 - March 2023"
+      },
+      {
+        "title": "Founder",
+        "company": "Afterkite Web",
+        "duration": "August 2014 - December 2021"
+      },
+      {
+        "title": "Product & Growth",
+        "company": "Sportaholic.in",
+        "duration": "November 2014 - June 2017"
+      },
+      {
+        "title": "Product Management Intern",
+        "company": "Tradus.com",
+        "duration": "January 2014 - July 2014"
+      }
+    ],
+    "achievements": [
+      "Bootstrapped Afterkite Web to over $1M annual turnover",
+      "Implemented performance marketing strategies for 15+ clients across Europe and North America",
+      "Launched MVP for Sportaholic.in and defined its go-to-market strategy",
+      "Increased Tradus.com usage by 150% through UI/UX improvements and feature enhancements",
+      "Led product strategy and internationalization for a farming app targeting global markets",
+      "Introduced a project management tool to engineering team to streamline workflows"
+    ],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "Agritech / Sustainable Farming",
+      "E-commerce / D2C",
+      "Fintech",
+      "Insurtech",
+      "Healthtech",
+      "Global Product Development",
+      "Go-to-Market",
+      "Growth & Marketing"
+    ],
+    "filename": "Profile (45).pdf"
+  },
+  "profile_041": {
+    "name": "Pritish Kumar Choudhury",
+    "current_role": "Product Manager - II",
+    "current_company": "Samsung R&D Institute India",
+    "years_of_experience": 7,
+    "education": [
+      {
+        "institution": "Indian Institute of Management Bangalore",
+        "degree": "MBA"
+      },
+      {
+        "institution": "National Institute of Technology Rourkela",
+        "degree": "B.Tech"
+      }
+    ],
+    "has_mba": true,
+    "has_engineering_degree": true,
+    "skills": [
+      "AI product management",
+      "Feature ideation",
+      "User journeys",
+      "Release management",
+      "Roadmapping",
+      "Experimentation",
+      "Cross-functional leadership",
+      "Data-driven decision making",
+      "Adaptive workflows",
+      "LLMs / applied AI",
+      "Education technology",
+      "Product strategy"
+    ],
+    "previous_roles": [
+      {
+        "title": "Product Manager - II",
+        "company": "Samsung R&D Institute India",
+        "duration": "April 2024 – Present (1 year 7 months)"
+      },
+      {
+        "title": "Alumni Relations Representative",
+        "company": "Indian Institute of Management Bangalore",
+        "duration": "April 2023 – March 2024 (1 year)"
+      },
+      {
+        "title": "Manager - Product",
+        "company": "BYJU'S",
+        "duration": "January 2022 – March 2023 (1 year 3 months)"
+      },
+      {
+        "title": "Associate Manager - Product",
+        "company": "BYJU'S",
+        "duration": "January 2021 – January 2022 (1 year 1 month)"
+      },
+      {
+        "title": "Assistant Manager Content",
+        "company": "BYJU'S",
+        "duration": "December 2019 – January 2021 (1 year 2 months)"
+      },
+      {
+        "title": "Senior Content Developer",
+        "company": "BYJU'S",
+        "duration": "July 2018 – December 2019 (1 year 6 months)"
+      }
+    ],
+    "achievements": [
+      "Scaled the 1:25 cohort learning format at BYJU’S Classes to improve retention, engagement, and instructor effectiveness.",
+      "Implemented adaptive nudges, progress tracking, and feedback loops to increase session stickiness.",
+      "Led cross-functional squads to ship fast experiments and de-risk feature releases.",
+      "Transformed onboarding by leading zero-to-one initiatives for new batches and reducing early-drop-off.",
+      "Designed features to streamline session discovery, batch assignments, and mentor–student coordination.",
+      "Scaled BYJU’S Classes from pilot to pan-India rollout within 6 months; created SOPs for session management and post-class analytics.",
+      "In Samsung, contributed to building adaptive security services for Indian homes and designing brief-style interfaces that surface what matters, when it matters.",
+      "Currently exploring applied LLMs, adaptive workflows, and intelligent interfaces to simplify decisions."
+    ],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "AI product management",
+      "EdTech / Education technology",
+      "Smart devices / multi-device / IoT experiences",
+      "Home security / smart home",
+      "Live learning platforms / cohort-based education",
+      "Pedagogical data analytics"
+    ],
+    "filename": "Profile (46).pdf"
+  },
+  "profile_042": {
+    "name": "Saurav Jain",
+    "current_role": "Product Manager",
+    "current_company": "Samsung R&D Institute India",
+    "years_of_experience": 7,
+    "education": [
+      {
+        "degree": "B.E. (Hons.), Computer Science",
+        "institution": "Birla Institute of Technology and Science (BITS Pilani), Goa Campus",
+        "years": "2013-2017"
+      },
+      {
+        "degree": "PGDM, Information Management",
+        "institution": "S.P. Jain Institute of Management & Research (SPJIMR)",
+        "years": "2020-2022"
+      }
+    ],
+    "has_mba": true,
+    "has_engineering_degree": true,
+    "skills": [
+      "Product Management",
+      "Full Stack Development",
+      "Web Technologies",
+      "Mockups",
+      "Impact Analysis",
+      "Go-to-market Strategy",
+      "Competitive Analysis",
+      "Wireframing",
+      "Product Roadmap",
+      "Dashboards",
+      "Unit Testing",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "previous_roles": [
+      {
+        "title": "Product Management Intern",
+        "company": "Samsung R&D Institute India",
+        "duration": "Sep 2021 – Nov 2021"
+      },
+      {
+        "title": "Software Engineer",
+        "company": "Indus Valley Partners",
+        "duration": "Oct 2019 – May 2020"
+      },
+      {
+        "title": "Associate Software Engineer",
+        "company": "Indus Valley Partners",
+        "duration": "Jun 2017 – Sep 2019"
+      },
+      {
+        "title": "Software Engineer Intern",
+        "company": "HERE Technologies",
+        "duration": "Jul 2016 – Dec 2016"
+      },
+      {
+        "title": "Summer Intern",
+        "company": "Delta Step Learning Private Limited",
+        "duration": "May 2015 – Jul 2015"
+      }
+    ],
+    "achievements": [
+      "Proposed 5+ feature enhancements for Dynamic Lock Screen, leading to ~13% increase in Daily Active Users",
+      "Created mockups and impact analysis for each suggested feature; developed go-to-market framework for globalizing the lock screen product",
+      "Led the module for performance metric calculation over cashflow transactions",
+      "Automated the report generation module to produce 100+ configurable reports daily",
+      "Developed major dashboards and configuration screens for IVP Polaris; enhanced services and unit testing"
+    ],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "Voice assistant / AI",
+      "Financial Services / Risk & Performance Attribution",
+      "Web Applications & Dashboards",
+      "Education Technology",
+      "Software Engineering / Full Stack",
+      "Data Analytics"
+    ],
+    "filename": "Profile (47).pdf"
+  },
+  "profile_043": {
+    "name": "Bhuvan Goyal",
+    "current_role": "Product Manager II",
+    "current_company": "Samsung R&D Institute India",
+    "years_of_experience": 8,
+    "education": [
+      {
+        "degree": "PGPM",
+        "field": "Information Management",
+        "institution": "SPJIMR SP Jain Institute of Management & Research",
+        "years": "2021-2022"
+      },
+      {
+        "degree": "B.E. (Hons.)",
+        "field": "Chemical Engineering",
+        "institution": "Panjab University",
+        "years": "2012-2016"
+      }
+    ],
+    "has_mba": false,
+    "has_engineering_degree": true,
+    "skills": [
+      "Tableau",
+      "SQL",
+      "Python",
+      "Data Visualization",
+      "Data Modeling",
+      "Forecasting",
+      "Financial Reporting",
+      "Tableau Dashboards",
+      "Business Analysis",
+      "Analytics",
+      "Project Management",
+      "Cost Management"
+    ],
+    "previous_roles": [
+      {
+        "title": "Product Manager II",
+        "company": "Samsung R&D Institute India",
+        "duration": "February 2023 - Present"
+      },
+      {
+        "title": "SME - Product Management & Analytics",
+        "company": "American Express Global Business Travel",
+        "duration": "December 2020 - November 2021"
+      },
+      {
+        "title": "Senior Business Analyst",
+        "company": "Evalueserve",
+        "duration": "August 2019 - December 2020"
+      },
+      {
+        "title": "Lead Assistant Manager",
+        "company": "EXL",
+        "duration": "July 2018 - August 2019"
+      },
+      {
+        "title": "Assistant Manager",
+        "company": "EXL",
+        "duration": "July 2016 - June 2018"
+      }
+    ],
+    "achievements": [
+      "Gold Medalist, SPJIMR",
+      "GRACE Achiever (recognized multiple times)",
+      "Created a Tableau tool with multiple parameters serving as a standard offering for Global Sales Team",
+      "Automated a complete finance reporting Tableau dashboard, cutting production time by more than 50%",
+      "Introduced Data Modelling & Forecasting as a standard in business reviews for a leading multinational banking corporation",
+      "Drove synergies across Analytics, Finance and Quality & Process Excellence teams to improve data flow and accuracy for a Fortune 500 client"
+    ],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "Product Management",
+      "Analytics / Business Intelligence",
+      "Financial Services / Banking",
+      "Travel & Corporate Travel Analytics",
+      "Data Visualization",
+      "Finance & Reporting",
+      "Program & Project Management"
+    ],
+    "filename": "Profile (48).pdf"
+  },
+  "profile_044": {
+    "name": "Sharveya Baxi",
+    "current_role": "Associate Product Manager II",
+    "current_company": "Samsung R&D Institute India",
+    "years_of_experience": 6,
+    "education": [
+      "PGDM, Information Management (minor in Marketing) — SPJIMR, Mumbai (June 2022 – May 2024)",
+      "Global Fast Track — Michigan State University, Eli Broad College of Business (March 2024 – April 2024)",
+      "Bachelor of Engineering (BE), Electronics and Telecommunication — Pune Institute of Computer Technology (2015 – 2019)"
+    ],
+    "has_mba": false,
+    "has_engineering_degree": true,
+    "skills": [
+      "Product Management",
+      "Conversational AI / Gen-AI",
+      "Bixby / Voice Assistants",
+      "Travel Technology",
+      "Booking & OTA Optimization",
+      "Requirements Gathering & Use Case Ideation",
+      "Prototyping & UX",
+      "Chatbot Development & Deployment",
+      "Cross-functional Collaboration"
+    ],
+    "previous_roles": [
+      {
+        "title": "Associate Product Manager II",
+        "company": "Samsung R&D Institute India",
+        "duration": "May 2024 – Present"
+      },
+      {
+        "title": "Product Management Intern",
+        "company": "Samsung R&D Institute India",
+        "duration": "Sept 2023 – Nov 2023"
+      },
+      {
+        "title": "Software Engineer II",
+        "company": "Amadeus",
+        "duration": "July 2019 – June 2022"
+      }
+    ],
+    "achievements": [
+      "Ideated and scoped 25+ Gen-AI use cases across OneUI touchpoints",
+      "Prototyped end-to-end UX for 6 Gen-AI features addressing Android notification pain points",
+      "Managed requirements for airlines across 4 pre-travel engagement product verticals (Journey selection, Availability, Recommendations and Booking)",
+      "Led creation, training and deployment of 30+ use cases in a global customer excellence chatbot",
+      "Improved book-ability (booking success rate) for OTAs by managing cached availability configurations for 100+ airlines",
+      "Curated 13 product artifacts for airline community and R&D teams; improved self-assisted troubleshooting of errors by 50%",
+      "Identified ~8 pain points for an internal diagnostic tool for travel solution recommendations; improved developer efficiency by ~20%"
+    ],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "Travel Technology",
+      "Aviation / Airlines / OTA",
+      "Conversational AI / Gen-AI",
+      "Mobile UX / OneUI",
+      "Customer Support & Chatbots",
+      "E-commerce / Booking Optimization"
+    ],
+    "filename": "Profile (49).pdf"
+  },
+  "profile_045": {
+    "name": "Pooja Sharma",
+    "current_role": "Product Manager",
+    "current_company": "Samsung Ads",
+    "years_of_experience": 12,
+    "education": [
+      {
+        "institution": "Netaji Subhas Institute of Technology",
+        "degree": "Bachelor's Degree in Information Technology",
+        "start_year": 2009,
+        "end_year": 2013
+      }
+    ],
+    "has_mba": false,
+    "has_engineering_degree": true,
+    "skills": [
+      "Product Management",
+      "Product Analytics",
+      "Data Analytics",
+      "Data Strategy",
+      "User Story Development",
+      "Problem Solving",
+      "Automation",
+      "AdTech",
+      "B2C Product Management",
+      "B2B Product Management",
+      "API Integration",
+      "Payment Gateway Integration",
+      "Team Leadership"
+    ],
+    "previous_roles": [
+      {
+        "title": "Manager - Strategic Initiatives (Product Manager)",
+        "company": "Zapr Media Labs",
+        "duration": "November 2018 – April 2022"
+      },
+      {
+        "title": "Senior Data Analyst",
+        "company": "Zapr Media Labs",
+        "duration": "December 2016 – November 2018"
+      },
+      {
+        "title": "Data Analyst",
+        "company": "Zapr Media Labs",
+        "duration": "November 2015 – December 2016"
+      },
+      {
+        "title": "Full Stack Developer",
+        "company": "PolicyBazaar",
+        "duration": "June 2013 – November 2015"
+      }
+    ],
+    "achievements": [
+      "Led a team of 6 data analytics professionals to deliver action-oriented insights to brands.",
+      "Enabled Myntra, Lenskart, Cleartrip, Sony, Zee, Colors, Star and other brands to track channel and advertisement performance and make data-driven TV ad decisions.",
+      "Empowered broadcasters to track channel and competition channel performance with hyperlocal granularity data.",
+      "Designed and developed end-to-end customer journey for the home insurance product, contributing to a 300% increase in revenue contribution.",
+      "Integrated APIs and payment gateway for insurance clients (HDFC, India First, L&T, Bajaj Allianz).",
+      "Led product analytics for home and car insurance, reducing integration time by 50%.",
+      "Ideated and developed quotes comparison feature for home insurance, improving customer experience on the website."
+    ],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "AdTech",
+      "Digital Advertising",
+      "Data Analytics",
+      "Product Management",
+      "Insurance (Home & Car)",
+      "E-commerce / Retail Analytics",
+      "TV Advertising"
+    ],
+    "filename": "Profile (5).pdf"
+  },
+  "profile_046": {
+    "name": "Swati Singh",
+    "current_role": "Product Manager",
+    "current_company": "Samsung Electronics",
+    "years_of_experience": 9,
+    "education": [
+      {
+        "institution": "Indian Institute of Management Bangalore",
+        "degree": "MBA",
+        "period": "April 2022 - March 2023"
+      },
+      {
+        "institution": "IE Business School",
+        "degree": "Executive MBA, General Management",
+        "period": "December 2022 - December 2022"
+      },
+      {
+        "institution": "Manipal University",
+        "degree": "Master of Technology (M.Tech.), Biomedical/Medical Engineering",
+        "period": "2015 - 2017"
+      },
+      {
+        "institution": "Vellore Institute of Technology",
+        "degree": "Bachelor of Technology (B.Tech.), Biomedical Engineering",
+        "period": "2009 - 2013"
+      }
+    ],
+    "has_mba": true,
+    "has_engineering_degree": true,
+    "skills": [
+      "Product Management",
+      "Agile Methodologies",
+      "Analytics",
+      "Software Development",
+      "Stakeholder Management",
+      "Client-facing",
+      "Cross-functional Team Leadership",
+      "End-to-End Release Management",
+      "Marketing Campaigns",
+      "AdTech",
+      "Healthcare",
+      "Retail",
+      "Data Visualization / Dashboards",
+      "Microsoft Office",
+      "Management",
+      "Business Strategy"
+    ],
+    "previous_roles": [
+      {
+        "title": "Product Manager",
+        "company": "Samsung Electronics",
+        "duration": "April 2023 - Present"
+      },
+      {
+        "title": "Senior Software Engineer",
+        "company": "Philips",
+        "duration": "July 2019 - March 2022"
+      },
+      {
+        "title": "Software Engineer",
+        "company": "Philips",
+        "duration": "July 2017 - November 2019"
+      },
+      {
+        "title": "M.Tech Intern",
+        "company": "Philips",
+        "duration": "July 2016 - June 2017"
+      },
+      {
+        "title": "Media Planner",
+        "company": "Adjetter Media Network Pvt Ltd",
+        "duration": "August 2014 - July 2015"
+      },
+      {
+        "title": "Decision Scientist",
+        "company": "Mu Sigma",
+        "duration": "July 2013 - July 2014"
+      }
+    ],
+    "achievements": [
+      "Gold medalist in M.Tech Biomedical Engineering",
+      "Team up to excel"
+    ],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "AdTech",
+      "Healthcare",
+      "Retail"
+    ],
+    "filename": "Profile (52).pdf"
+  },
+  "profile_047": {
+    "name": "Anisha Mohapatra",
+    "current_role": "Product Manager",
+    "current_company": "Samsung Ads",
+    "years_of_experience": 7,
+    "education": [
+      {
+        "institution": "Indian School of Business (ISB)",
+        "degree": "MBA"
+      }
+    ],
+    "has_mba": true,
+    "has_engineering_degree": false,
+    "skills": [
+      "Data Analysis",
+      "Machine Learning",
+      "Artificial Intelligence",
+      "Product Management",
+      "Campaign Management",
+      "Creative Management",
+      "Data-driven Optimization",
+      "AI-based Ad Review",
+      "Stakeholder Management",
+      "Cross-functional Collaboration",
+      "Promotions",
+      "UX Improvement",
+      "Inventory Management",
+      "Deal Management",
+      "Reporting"
+    ],
+    "previous_roles": [
+      {
+        "title": "Product Manager",
+        "company": "Swvl",
+        "duration": "March 2022 - May 2022"
+      },
+      {
+        "title": "Product Manager",
+        "company": "Flipkart",
+        "duration": "May 2020 - April 2022"
+      }
+    ],
+    "achievements": [
+      "Improved creative review accuracy by 38% and expedited campaign launches at Samsung Ads.",
+      "Boosted Roadblock yield by 6% by identifying opportunities within privacy laws.",
+      "Led AI-based Ad Review Pilot achieving 40% cost reduction; pilot funded to scale up.",
+      "Launched data-driven dynamic bid floor for mobile ads, enabling automated bid adjustments; planning full-scale rollout.",
+      "Received Samsung Ads Global Award (second award among 5 countries) for delivering across multiple product lines with challenging stakeholders.",
+      "Unified Mobile and CTV Supply Platforms: delivered inventory management, deal management, reporting, and creative review modules; earned Samsung Excellence Awards and Samsung Ads Global Awards.",
+      "Promotions product improvements at Flipkart: ~20% increase in opt-ins among ~20k sellers; UX improvements reduced churn at opt-in."
+    ],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "Ad Tech / Digital Advertising",
+      "Data-driven Product Management",
+      "Privacy & Compliance in Advertising",
+      "Campaign Management",
+      "Creative Management",
+      "AI/ML in Advertising",
+      "Mobile & Connected TV (Cross-Platform) Advertising",
+      "Promotions & Marketplace Promotions",
+      "Inventory & Deal Management",
+      "Analytics & Reporting",
+      "Cross-functional Leadership"
+    ],
+    "filename": "Profile (53).pdf"
+  },
+  "profile_048": {
+    "name": "Manish S Jain",
+    "current_role": "Senior Product Manager",
+    "current_company": "Samsung R&D Institute India",
+    "years_of_experience": 14.75,
+    "education": [
+      {
+        "institution": "Bangalore Institute of Technology",
+        "degree": "Bachelor of Engineering (BE)",
+        "major": "Telecommunications Engineering",
+        "years": "2006-2010"
+      }
+    ],
+    "has_mba": false,
+    "has_engineering_degree": true,
+    "skills": [
+      "Software Design Patterns",
+      "Design Patterns",
+      "C++",
+      "Product Management"
+    ],
+    "previous_roles": [
+      {
+        "title": "Senior Chief Engineer",
+        "company": "Samsung R&D Institute India",
+        "duration": "February 2011 - September 2022"
+      },
+      {
+        "title": "Senior Product Manager",
+        "company": "Samsung R&D Institute India",
+        "duration": "September 2022 - Present"
+      }
+    ],
+    "achievements": [],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "Software engineering",
+      "Telecommunications",
+      "Product management",
+      "R&D"
+    ],
+    "filename": "Profile (54).pdf"
+  },
+  "profile_049": {
+    "name": "Aadhar Agarwal",
+    "current_role": "Senior Product Manager (ML/Gen AI)",
+    "current_company": "Samsung Electronics",
+    "years_of_experience": 12,
+    "education": [],
+    "has_mba": false,
+    "has_engineering_degree": false,
+    "skills": [
+      "Machine Learning",
+      "Generative AI",
+      "Product Roadmap",
+      "Product Leadership",
+      "Certified Scrum Master",
+      "GenAI Product Strategy",
+      "Competitive Strategy"
+    ],
+    "previous_roles": [
+      {
+        "title": "Senior Product Manager (ML/Gen AI)",
+        "company": "Samsung Electronics",
+        "duration": "February 2024 - Present"
+      },
+      {
+        "title": "Senior Product Manager",
+        "company": "Airtel Digital",
+        "duration": "January 2022 - December 2023"
+      },
+      {
+        "title": "Lead Product Manager",
+        "company": "Brevo",
+        "duration": "January 2021 - November 2021"
+      },
+      {
+        "title": "Product Manager",
+        "company": "Brevo",
+        "duration": "November 2019 - December 2020"
+      },
+      {
+        "title": "Product Manager",
+        "company": "Swym Corporation",
+        "duration": "September 2018 - October 2019"
+      }
+    ],
+    "achievements": [
+      "Reduced onboarding TAT for Airtel merchant onboarding platform (X days to Y hours).",
+      "Introduced self-service onboarding for SMB merchants via Airtel Reach, generating revenue within the first 3 months.",
+      "Identified GenAI use cases for the support value chain and launched experiments driving annual cost savings worth $X Millions.",
+      "Improved CSAT for Airtel customer app by launching live chat to handle queries beyond the chatbot.",
+      "Led CDP product strategy at Brevo to deepen value for marketer users; launched segmentation engine and repositioned CRM from SMB to Enterprise; contributed to topline growth.",
+      "Laid the foundation of the Sales platform at Brevo; conducted user research to inform product roadmap; launched sales pipelines, automation, inboxes, chat, and reports.",
+      "Achieved product-market fit for Swym's apps; built omnichannel (Online + Offline) and cross-channel personalisation app 'Engage'; launched REST APIs and partnered with Magento & BigCommerce to accelerate adoption."
+    ],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "SaaS",
+      "Generative AI",
+      "AI/ML product management",
+      "Customer support / service tech",
+      "CRM & Sales platforms",
+      "Onboarding & onboarding optimization",
+      "E-commerce / merchant platforms",
+      "Omnichannel / cross-channel communications"
+    ],
+    "filename": "Profile (6).pdf"
+  },
+  "profile_050": {
+    "name": "Parvathy G",
+    "current_role": "Product Manager for Samsung Finance+",
+    "current_company": "Samsung R&D Institute India - Bangalore",
+    "years_of_experience": 8,
+    "education": [],
+    "has_mba": false,
+    "has_engineering_degree": false,
+    "skills": [
+      "REST APIs",
+      "Jakarta EE",
+      "Microservices",
+      "API Integrations",
+      "Agile project delivery",
+      "Product roadmap strategy",
+      "Customer journey optimization",
+      "Funnel analysis",
+      "Market research",
+      "JIRA",
+      "Digital Banking",
+      "Fintech",
+      "End-to-end product management",
+      "Data-driven decision making",
+      "Regulatory compliance data reporting",
+      "Automation"
+    ],
+    "previous_roles": [
+      {
+        "title": "Product Development Engineer",
+        "company": "Envestnet, Inc",
+        "duration": "July 2017 - May 2019"
+      },
+      {
+        "title": "Development Intern",
+        "company": "Krushak Mitra Agro Services",
+        "duration": "October 2019 - November 2019"
+      },
+      {
+        "title": "Summer Intern",
+        "company": "Sambodhi Research and Communications Pvt. Ltd.",
+        "duration": "June 2020 - July 2020"
+      },
+      {
+        "title": "Digital Product Manager, Rural & Inclusive Banking Group",
+        "company": "ICICI Bank",
+        "duration": "June 2021 - October 2023"
+      },
+      {
+        "title": "Product Manager II, Forex Card",
+        "company": "ICICI Bank",
+        "duration": "November 2023 - October 2024"
+      },
+      {
+        "title": "Product Manager for Samsung Finance+",
+        "company": "Samsung R&D Institute India",
+        "duration": "May 2025 - Present"
+      }
+    ],
+    "achievements": [
+      "Winner - Parivartan Strategy Case Competition, The Red Brick Summit, IIM-A",
+      "Special jury mention – IIFT Kolkata - Zuperly Case study",
+      "First Runner Up - Impacto Social Entrepreneurship Competition - IIM Kozhikode",
+      "Best Student Project"
+    ],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "Fintech",
+      "Banking",
+      "Digital Banking",
+      "Rural & Inclusive Banking",
+      "Payments",
+      "APIs",
+      "Software/Product Management"
+    ],
+    "filename": "Profile (7).pdf"
+  },
+  "profile_051": {
+    "name": "Neeraj Ravindra",
+    "current_role": "Product Manager",
+    "current_company": "Samsung Ads",
+    "years_of_experience": 7,
+    "education": [
+      {
+        "degree": "MBA",
+        "field": "Master of Business Administration",
+        "institution": "Indian Institute of Management Bangalore",
+        "duration": "Aug 2020 - Apr 2022"
+      },
+      {
+        "degree": "BE",
+        "field": "Electronics and Communications Engineering",
+        "institution": "Sri Jayachamarajendra College Of Engineering",
+        "duration": "Aug 2013 - May 2017"
+      }
+    ],
+    "has_mba": true,
+    "has_engineering_degree": true,
+    "skills": [
+      "Product Management",
+      "Market Research",
+      "Roadmapping",
+      "Requirements Refinement",
+      "Prioritization",
+      "Analytics",
+      "Machine Learning",
+      "APIs",
+      "Data Analysis",
+      "SaaS",
+      "Enterprise Software",
+      "Android Development",
+      "Stakeholder Management",
+      "Go-to-market",
+      "MVP Development",
+      "DevOps"
+    ],
+    "previous_roles": [
+      {
+        "title": "Product Manager",
+        "company": "Samsung Ads",
+        "duration": "July 2024 - Present"
+      },
+      {
+        "title": "Senior Product Analyst",
+        "company": "Optum",
+        "duration": "May 2022 - July 2024"
+      },
+      {
+        "title": "Product Management Intern",
+        "company": "Optum",
+        "duration": "April 2021 - June 2021"
+      },
+      {
+        "title": "Software Engineer",
+        "company": "Avaya",
+        "duration": "July 2017 - July 2020"
+      }
+    ],
+    "achievements": [
+      "Projected annual revenue growth of ~USD 4M for Member Enablement solution.",
+      "Reduced data access latency by ~25% by integrating SDoH data and benefits APIs.",
+      "Defined product vision for Analytics solution after analyzing 10+ competitors and 30+ stakeholder interviews.",
+      "Directed MVP development through strategic planning and stakeholder management.",
+      "Saved USD 3M+ by resolving customer issues at Avaya.",
+      "Enabled DevOps pipeline and automated deployment, saving ~2000 hours/month.",
+      "API adopted by 16+ development teams at Avaya.",
+      "Received pre-placement offer at Optum.",
+      "Projected revenue ~USD 40Mn during go-to-market planning at Optum internship."
+    ],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "Advertising Technology",
+      "Healthcare Analytics",
+      "Enterprise Software",
+      "SaaS"
+    ],
+    "filename": "Profile (8).pdf"
+  },
+  "profile_052": {
+    "name": "Ranjani Iyer",
+    "current_role": "Senior Product Manager, Samsung Finance+ Lending Platform",
+    "current_company": "Samsung Electronics",
+    "years_of_experience": 13,
+    "education": [
+      {
+        "degree": "PGDM, Business Management",
+        "institution": "XLRI Jamshedpur",
+        "years": "2013 - 2015"
+      },
+      {
+        "degree": "Bachelor of Engineering, Electrical and Electronics Engineering",
+        "institution": "R. V. College of Engineering, Bangalore",
+        "years": "2007 - 2011"
+      }
+    ],
+    "has_mba": true,
+    "has_engineering_degree": true,
+    "skills": [
+      "Growth Strategies",
+      "Loan Origination",
+      "FinTech",
+      "Product Management",
+      "Business Development",
+      "Technology Partnerships",
+      "Go-to-Market",
+      "Strategic Partnerships",
+      "Sales Enablement",
+      "Platform Growth"
+    ],
+    "previous_roles": [
+      {
+        "title": "Senior Manager",
+        "company": "Samsung Electronics",
+        "duration": "March 2023 – January 2024"
+      },
+      {
+        "title": "Manager",
+        "company": "Samsung Electronics",
+        "duration": "March 2020 – February 2023"
+      },
+      {
+        "title": "Product Manager, Knox Enterprise Mobility Solution",
+        "company": "Samsung Electronics",
+        "duration": "March 2020 – February 2023"
+      },
+      {
+        "title": "Deputy Manager, Technology Sourcing & Partnerships",
+        "company": "Samsung Electronics",
+        "duration": "March 2018 – February 2020"
+      },
+      {
+        "title": "Assistant Manager",
+        "company": "Samsung Electronics",
+        "duration": "May 2015 – February 2018"
+      },
+      {
+        "title": "Management Consulting Intern",
+        "company": "Capgemini Consulting",
+        "duration": "April 2014 – June 2014"
+      },
+      {
+        "title": "Business Technology Analyst",
+        "company": "Deloitte Consulting",
+        "duration": "June 2011 – May 2013"
+      }
+    ],
+    "achievements": [
+      "Spot Award",
+      "Global Award for Best Technical Support",
+      "Global CTO Award",
+      "Samsung Citizen Award",
+      "Publications: Robust Image Processing Techniques for DNA Microarray Analysis",
+      "Publications: Diagnosis of Invasive Ductal Carcinoma using image processing techniques"
+    ],
+    "has_tech_background": true,
+    "domain_expertise": [
+      "FinTech",
+      "Banking & Financial Services",
+      "Enterprise Mobility",
+      "Healthcare IT",
+      "AI & IoT partnerships",
+      "Digital Transformation",
+      "Go-to-Market Strategy"
+    ],
+    "filename": "Profile (9).pdf"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "required_qualifications": [
+    "Bachelor's degree in Computer Science, Engineering, or related technical field",
+    "MBA from a top-tier business school (preferred)",
+    "5+ years of product management experience in B2B SaaS environments",
+    "Strong technical background with ability to work closely with engineering teams"
+  ],
+  "required_experience": {
+    "years": 5,
+    "domains": [
+      "Product management",
+      "Enterprise software",
+      "Agile development methodologies",
+      "B2B SaaS",
+      "Product launches"
+    ]
+  },
+  "key_responsibilities": [
+    "Define and communicate product vision and strategy aligned with company goals",
+    "Develop detailed product roadmaps and prioritize features based on business value",
+    "Work closely with engineering, design, and QA teams throughout the development lifecycle",
+    "Conduct market research and competitive analysis to inform product decisions",
+    "Gather and synthesize feedback from customers, sales, and support teams",
+    "Define success metrics and analyze product performance data",
+    "Present product updates to executive leadership and stakeholders",
+    "Manage product lifecycle from conception through launch and iteration"
+  ],
+  "must_have_skills": [
+    "Product strategy and roadmap development",
+    "Agile/Scrum methodologies",
+    "Data analysis and metrics-driven decision making",
+    "SQL and basic analytics tools (Mixpanel, Amplitude, Google Analytics)",
+    "Wireframing and prototyping tools (Figma, Sketch)",
+    "Strong communication and presentation skills",
+    "Stakeholder management",
+    "Technical aptitude and understanding of software architecture",
+    "User research and customer discovery",
+    "Prioritization frameworks (RICE, value vs. effort)"
+  ],
+  "nice_to_have_skills": [
+    "Experience with API products or platform development",
+    "Knowledge of cloud infrastructure (AWS, Azure, GCP)",
+    "Background in design thinking methodologies",
+    "Experience with pricing and monetization strategies",
+    "Familiarity with developer tools and workflows",
+    "Prior experience as a software engineer or technical role",
+    "Knowledge of machine learning or AI applications",
+    "Experience scaling products from 0 to 1 or 1 to 100"
+  ],
+  "key_competencies": [
+    "Strategic thinking and vision",
+    "Customer-centric mindset",
+    "Data-driven decision making",
+    "Leadership and influence without authority",
+    "Problem-solving and analytical skills",
+    "Excellent written and verbal communication",
+    "Cross-functional collaboration",
+    "Adaptability and comfort with ambiguity",
+    "Ownership and accountability",
+    "Technical depth combined with business acumen"
+  ]
+}

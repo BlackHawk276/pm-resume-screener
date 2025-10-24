@@ -1,0 +1,54 @@
+{
+  "total_profiles": 52,
+  "valid_profiles": 52,
+  "error_profiles": 0,
+  "avg_years_of_experience": 10.1,
+  "pct_with_mba": 48.1,
+  "pct_with_engineering": 65.4,
+  "pct_with_tech_background": 98.1,
+  "profiles_with_mba": 25,
+  "profiles_with_engineering": 34,
+  "profiles_with_tech_background": 51,
+  "top_skills": [
+    {
+      "skill": "Product Management",
+      "count": 34
+    },
+    {
+      "skill": "Stakeholder Management",
+      "count": 9
+    },
+    {
+      "skill": "Analytics",
+      "count": 8
+    },
+    {
+      "skill": "Data Analysis",
+      "count": 7
+    },
+    {
+      "skill": "SQL",
+      "count": 6
+    },
+    {
+      "skill": "AdTech",
+      "count": 6
+    },
+    {
+      "skill": "Agile Methodologies",
+      "count": 6
+    },
+    {
+      "skill": "Cross-functional Leadership",
+      "count": 6
+    },
+    {
+      "skill": "Roadmapping",
+      "count": 6
+    },
+    {
+      "skill": "Product Strategy",
+      "count": 6
+    }
+  ]
+}

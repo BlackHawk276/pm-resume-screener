@@ -1,8 +1,13 @@
-# Environment variables
+# Environment variables (NEVER COMMIT - contains API keys)
 .env
 
 # Data directories
 data/
+# Exception: Allow baseline data files needed for Streamlit deployment
+!data/processed/
+!data/processed/structured_profiles.json
+!data/processed/jd_requirements.json
+!data/processed/analysis_statistics.json
 
 # Python cache
 __pycache__/

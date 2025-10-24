@@ -191,6 +191,47 @@ Core packages in `requirements.txt`:
 - `pandas==2.2.0` - Data manipulation for CSVs
 - `numpy==1.26.3` - Numerical operations
 
+## File Locations and Outputs
+
+**Input Files:**
+- LinkedIn PDFs: `data/linkedin_pdfs/` (gitignored)
+- Job Description: `job_description.txt` (project root)
+- Environment: `.env` (gitignored, use `.env.example` as template)
+
+**Processed Data (all in `data/processed/`, gitignored):**
+- `extracted_resumes.json` - Raw text from PDFs
+- `jd_requirements.json` - Structured job requirements
+- `structured_profiles.json` - Analyzed candidate profiles (52 good hires)
+- `analysis_statistics.json` - Baseline statistics
+
+**Output Files (all in `outputs/`, gitignored):**
+- `candidate_evaluation.json` - Single candidate result
+- `batch_results/` - Batch processing folder
+  - Individual candidate JSONs: `{name}_evaluation.json`
+  - `batch_summary.csv` - Ranked candidates table
+  - `batch_report.json` - Statistics and top/bottom performers
+
+## Troubleshooting
+
+**"Temperature parameter not supported" error:**
+- The `gpt-5-nano` model does NOT support the temperature parameter
+- All API calls in this codebase have had temperature removed
+- If adding new OpenAI calls, omit the `temperature` parameter
+
+**Slow processing times:**
+- Expected: ~26 seconds per profile for OpenAI API calls
+- Batch of 52 profiles takes ~23-25 minutes
+- This is normal behavior for the gpt-5-nano model
+
+**Missing baseline data for Streamlit app:**
+- Run `python src/run_analysis.py` first to create baseline files
+- The web app requires `data/processed/structured_profiles.json` and `jd_requirements.json`
+
+**API rate limit errors:**
+- The system includes 1-second delays between profiles
+- Retry logic attempts 3 times with 2-second delays
+- If errors persist, check your OpenAI account rate limits
+
 ## Security and Privacy
 
 - `.env` file contains OPENAI_API_KEY (never commit)
