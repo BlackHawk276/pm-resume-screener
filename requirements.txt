@@ -1,0 +1,7 @@
+pypdf2==3.0.1
+openai==1.54.0
+pandas==2.2.0
+python-dotenv==1.0.0
+streamlit==1.39.0
+numpy==1.26.3
+plotly==5.18.0
